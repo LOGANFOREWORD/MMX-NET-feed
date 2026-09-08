@@ -1,4 +1,6 @@
-﻿MMX-Net feed PUBBLICO
+﻿MMX-Net feed PUBBLICO (solo update)
+===================================
 updateFeedUrl: https://raw.githubusercontent.com/LOGANFOREWORD/MMX-NET-feed/main/
-Token forever NON serve. MMX-NET privata / MMX-NET-feed pubblica.
-Install vecchi su MMX-NET/main: migrazione auto a MMX-NET-feed.
+Token forever / PAT: NON serve.
+MMX-NET = privata (codice). Questa repo = solo zip/manifest.
+Install vecchi su .../MMX-NET/main/: il launcher migra a MMX-NET-feed.
