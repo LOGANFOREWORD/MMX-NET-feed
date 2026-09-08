@@ -1,0 +1,24 @@
+MMX-Net - feed aggiornamenti (PUBBLICO)
+========================================
+
+*** NON SCARICARE DA GITHUB. USA LO ZIP. GLI UPDATE ARRIVANO DA SOLI. ***
+
+L'amico NON deve clonare/scaricare MMX-NET (privata, solo Logan).
+Prende il pacchetto installer (MmxNet-Download.zip) da Logan / Drive / Discord.
+Dopo l'install, gli aggiornamenti partono dal launcher (popup AGGIORNA) senza PAT.
+
+updateFeedUrl (ac_config.json):
+https://raw.githubusercontent.com/LOGANFOREWORD/MMX-NET/main/
+
+Token «forever» / PAT nello zip: NON serve (insicuro; GitHub puo revocarlo).
+Feed pubblico = HTTP 200 senza token. updateFeedToken lascia vuoto.
+
+Se un install vecchio punta ancora a .../MMX-NET/main/ (privata),
+il launcher all'avvio migra automaticamente a MMX-NET e salva ac_config.
+
+Questa repo contiene SOLO:
+- ac_version.json
+- ac_update_manifest.json
+- ac-update.zip
+
+Codice prodotto: MMX-NET (privata). Feed: MMX-NET (pubblica). Nessun token.
