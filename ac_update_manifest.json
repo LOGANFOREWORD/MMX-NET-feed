@@ -1,12 +1,12 @@
-{
+﻿{
     "Name":  "MMX-Net",
-    "Version":  "0.1.14",
+    "Version":  "0.1.15",
     "Channel":  "dev",
     "Protocol":  "89",
     "Engine":  "ST",
-    "Notes":  "Feed pubblico MMX-NET; update senza PAT; write solo owner",
-    "PackageUrl":  "https://raw.githubusercontent.com/LOGANFOREWORD/MMX-NET/main/ac-update.zip",
-    "PackageSha256":  "a3debc87a1f5bd48abf5ebd575b65f9370245dc6f5afe28057aeac1d8ce17366",
-    "PublishedUtc":  "2026-09-08T21:15:08.3327990Z",
+    "Notes":  "Auto-migra updateFeedUrl a MMX-NET-feed; nessun PAT forever",
+    "PackageUrl":  "https://raw.githubusercontent.com/LOGANFOREWORD/MMX-NET-feed/main/ac-update.zip",
+    "PackageSha256":  "c500cf8e45a66834ceb99a3a6c508a158938711d7f5127b01654460e851e3c38",
+    "PublishedUtc":  "2026-09-08T21:29:24.5902325Z",
     "MinLauncherVersion":  "0.1.0"
 }
