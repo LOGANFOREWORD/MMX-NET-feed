@@ -1,6 +1,7 @@
 ﻿# MMX-NET-feed
 
-Solo feed update pubblico MMX-Net.
-ac_version.json + ac_update_manifest.json + ac-update.zip
-Prodotto: MMX-NET privata. Nessun PAT. Solo owner write.
-https://raw.githubusercontent.com/LOGANFOREWORD/MMX-NET-feed/main/
+Repo **pubblica** solo-feed per MMX-Net (manifest + zip).
+
+- Codice: repo privata `MMX-NET` (solo owner)
+- Amici: `updateFeedUrl` = raw di questa repo, `updateFeedToken` vuoto
+- **Nessun PAT forever** nello zip
