@@ -1,7 +1,12 @@
-﻿*
+﻿# MMX-NET-feed: allowlist (deny tutto il resto)
+*
 !ac_version.json
 !ac_update_manifest.json
 !ac-update.zip
+!ac_extras_manifest.json
+!ac_changelog.json
 !LEGGIMI_FEED.txt
 !README.md
 !.gitignore
+!extras/
+!extras/*.zip

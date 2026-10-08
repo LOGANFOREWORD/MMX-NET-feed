@@ -1,8 +1,9 @@
-﻿{
-    "Name":  "MMX-Net",
-    "Version":  "0.1.15",
-    "Channel":  "dev",
-    "Protocol":  "89",
-    "Engine":  "ST",
-    "Notes":  "Auto-migra updateFeedUrl a MMX-NET-feed; nessun PAT forever"
+{
+  "Name": "MMX-Net",
+  "Version": "0.2.1028",
+  "Channel": "dev",
+  "Protocol": "89",
+  "Engine": "ST",
+  "Notes": "* Launcher User aggiornato con le modifiche MMX Profile e Amici.\n* Aggiornate UI e localizzazioni del launcher.\n* Aggiornati menu Join the Zone e indicatori UI in gioco.\n* Aggiornato l\u0027ordine mod MMX-Net incluso nel feed.\n* Controlli pre-push del Devkit: tutte le modifiche rilevate incluse nello ZIP User.",
+  "MinLauncherVersion": "0.1.0"
 }
