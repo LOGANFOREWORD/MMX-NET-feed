@@ -1,6 +1,6 @@
 ﻿{
     "Name":  "MMX-Net Extras",
-    "PublishedUtc":  "2026-10-10T13:49:18.9998938Z",
+    "PublishedUtc":  "2026-10-10T13:57:09.8346765Z",
     "Packages":  [
                      {
                          "Id":  "mcm",
@@ -119,8 +119,8 @@
                          "Name":  "Weapon Inertia Expanded (lizzardman)",
                          "Version":  "1",
                          "PackageUrl":  "extras/weapon-inertia-expanded.zip",
-                         "PackageSha256":  "50fa02855c59bfc08ee73ab74744a622b1c416cbc3c59f942d94892726856994",
-                         "PackageSizeBytes":  34723,
+                         "PackageSha256":  "481979fd302ac6e9ee292a44ed769476ed78da3f29bca70801f31c8dfd9a7bd1",
+                         "PackageSizeBytes":  34531,
                          "Notes":  "Credit: lizzardman â€” ModDB: https://www.moddb.com/mods/stalker-anomaly/addons/weapon-inertia-expanded"
                      },
                      {
@@ -650,7 +650,7 @@
                          "Name":  "MMX-Health (MMX-Net / Logan)",
                          "Version":  "1.0.0",
                          "PackageUrl":  "extras/mmx-health.zip",
-                         "PackageSha256":  "75f39db04e7b1e8150027af9c088badc0e0d1330b84cedb5fe74bce1c637b99a",
+                         "PackageSha256":  "8e90bc346f344396acea810f94761b8ae9d74a7453ecd0f25fe0db65497352d1",
                          "PackageSizeBytes":  2629,
                          "Notes":  "MMX-Net first-party; modulo sperimentale diagnostico, non dichiara fix prestazionali non ancora misurati."
                      },
