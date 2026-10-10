@@ -1,16 +1,7 @@
 ﻿{
     "Name":  "MMX-Net Extras",
-    "PublishedUtc":  "2026-10-10T18:13:16.9470288Z",
+    "PublishedUtc":  "2026-10-10T18:37:39.3119556Z",
     "Packages":  [
-                     {
-                         "Id":  "mmx-health",
-                         "Name":  "MMX-Health (MMX-Net / Logan)",
-                         "Version":  "1.0.0",
-                         "PackageUrl":  "extras/mmx-health.zip",
-                         "PackageSha256":  "8e90bc346f344396acea810f94761b8ae9d74a7453ecd0f25fe0db65497352d1",
-                         "PackageSizeBytes":  2629,
-                         "Notes":  "MMX-Net first-party; modulo sperimentale diagnostico, non dichiara fix prestazionali non ancora misurati."
-                     },
                      {
                          "Id":  "mcm",
                          "Name":  "Anomaly Mod Configuration Menu (MCM)",
@@ -653,6 +644,15 @@
                          "PackageSha256":  "6bcce17746bd3f90a33f3ec8b92b954c4a76b07d15f02ceaea28d6a1b6fe89d5",
                          "PackageSizeBytes":  618751,
                          "Notes":  "Credit: Oleh5230 (orig.) Â· Relax_68 (ModDB) â€” ModDB: https://www.moddb.com/mods/stalker-anomaly/addons/s2-bolt-collision-sounds"
+                     },
+                     {
+                         "Id":  "mmx-health",
+                         "Name":  "MMX-Health (MMX-Net / Logan)",
+                         "Version":  "1",
+                         "PackageUrl":  "extras/mmx-health.zip",
+                         "PackageSha256":  "65b9bead0c9d29b26e8edcd424fa38b41c7f2b2c41a403b7842ddad2819658e5",
+                         "PackageSizeBytes":  2608,
+                         "Notes":  "Credit: MMX-Net / Logan â€” first-party MMX"
                      },
                      {
                          "Id":  "mmx-economy",
