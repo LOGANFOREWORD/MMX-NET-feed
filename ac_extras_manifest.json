@@ -1,6 +1,6 @@
 ﻿{
     "Name":  "MMX-Net Extras",
-    "PublishedUtc":  "2026-10-10T12:23:02.6774585Z",
+    "PublishedUtc":  "2026-10-10T13:49:18.9998938Z",
     "Packages":  [
                      {
                          "Id":  "mcm",
@@ -646,13 +646,22 @@
                          "Notes":  "Credit: Oleh5230 (orig.) Â· Relax_68 (ModDB) â€” ModDB: https://www.moddb.com/mods/stalker-anomaly/addons/s2-bolt-collision-sounds"
                      },
                      {
+                         "Id":  "mmx-health",
+                         "Name":  "MMX-Health (MMX-Net / Logan)",
+                         "Version":  "1.0.0",
+                         "PackageUrl":  "extras/mmx-health.zip",
+                         "PackageSha256":  "75f39db04e7b1e8150027af9c088badc0e0d1330b84cedb5fe74bce1c637b99a",
+                         "PackageSizeBytes":  2629,
+                         "Notes":  "MMX-Net first-party; modulo sperimentale diagnostico, non dichiara fix prestazionali non ancora misurati."
+                     },
+                     {
                          "Id":  "mmx-economy",
                          "Name":  "MMX-Economy (MMX-Net / Logan)",
                          "Version":  "0.5.10",
                          "PackageUrl":  "extras/mmx-economy.zip",
-                         "PackageSha256":  "c02d7298fbcdb3ca58f26615882e6b935db15d2d91cc3b89736d7742c0dd74bd",
-                         "PackageSizeBytes":  28467,
-                         "Notes":  "v0.5.10: overlay trader attivi (mod_trade_\u003cbase\u003e_mmx_economy*), trade_bas rimosso, HOLD toz/glock, no german_mg."
+                         "PackageSha256":  "865969ae9212a60e4891ed6ee1c005f24ed83fa388aa0b42d16da86eb6db615e",
+                         "PackageSizeBytes":  28983,
+                         "Notes":  "Credit: MMX-Net / Logan â€” first-party MMX"
                      },
                      {
                          "Id":  "mmx-more-animations-coop-sync",
