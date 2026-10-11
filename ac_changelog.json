@@ -2,6 +2,25 @@
   "Schema": 1,
   "Releases": [
     {
+      "Version": "0.2.1053",
+      "AddedIt": [],
+      "AddedEn": [],
+      "RemovedIt": [],
+      "RemovedEn": [],
+      "ReworkIt": [
+        "La scheda Weather Expansion conserva il collegamento ModDB alla pagina originale della mod."
+      ],
+      "ReworkEn": [
+        "The Weather Expansion card keeps its ModDB link to the original mod page."
+      ],
+      "FixIt": [
+        "Il pulsante resta il normale Installa. Il pacchetto viene scaricato e installato automaticamente senza aprire la pagina della mod."
+      ],
+      "FixEn": [
+        "The button remains the standard Install button. The package downloads and installs automatically without opening the mod page."
+      ]
+    },
+    {
       "Version": "0.2.1050",
       "AddedEn": [],
       "FixEn": [

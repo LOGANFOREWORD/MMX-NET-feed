@@ -1,9 +1,9 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1051",
+  "Version": "0.2.1054",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
-  "Notes": "* La priorit\u00E0 di una mod ora si modifica con un cursore chiaro e colori coerenti con il tema.\r\n* Il tasto Ripristina riporta il profilo selezionato al suo ordine iniziale senza disattivare mod.\r\n* Premi Applica dopo il ripristino per sincronizzare ordine e gioco.",
+  "Notes": "* Weather Expansion mantiene il collegamento alla pagina ModDB originale.\n* Il pulsante di installazione resta uguale agli altri e installa il pacchetto automaticamente.",
   "MinLauncherVersion": "0.1.0"
 }
