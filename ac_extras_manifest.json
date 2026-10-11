@@ -1,7 +1,16 @@
 ﻿{
     "Name":  "MMX-Net Extras",
-    "PublishedUtc":  "2026-10-10T19:37:41.3022274Z",
+    "PublishedUtc":  "2026-10-11T14:36:17.2119957Z",
     "Packages":  [
+                     {
+                         "Id":  "mmx-health",
+                         "Name":  "MMX-Health (MMX-Net / Logan)",
+                         "Version":  "1,2",
+                         "PackageUrl":  "extras/mmx-health.zip",
+                         "PackageSha256":  "9580c9d5faa4005afce61014618c3a1247a9e49ec81bcf90b679318c818a9f93",
+                         "PackageSizeBytes":  3086,
+                         "Notes":  "Credit: MMX-Net / Logan — MMX-Creator — Essenziale first-party in MMX-Base. Build sperimentale diagnostica; non applica ancora fix prestazionali. Seed: extras/mmx-health.zip."
+                     },
                      {
                          "Id":  "mcm",
                          "Name":  "Anomaly Mod Configuration Menu (MCM)",
@@ -569,8 +578,8 @@
                          "Name":  "FDDA Enhanced animations - Medical / EXO ANIMS (Mirrowel)",
                          "Version":  "1",
                          "PackageUrl":  "extras/fdda-medical-exo-anims.zip",
-                         "PackageSha256":  "03d551fb31ba3c4524b70054f60f71307991382ade3c47381a3e3d9201427be6",
-                         "PackageSizeBytes":  9778912,
+                         "PackageSha256":  "ea6557f4e6d5d5adaec7201da0a1b21fa0a8625025e1e2e68873e3591efa26f1",
+                         "PackageSizeBytes":  9770487,
                          "Notes":  "Credit: Mirrowel â€” ModDB: https://www.moddb.com/mods/stalker-anomaly/addons/fdda-enhanced-animations-medical-exo-anims"
                      },
                      {
@@ -644,15 +653,6 @@
                          "PackageSha256":  "6bcce17746bd3f90a33f3ec8b92b954c4a76b07d15f02ceaea28d6a1b6fe89d5",
                          "PackageSizeBytes":  618751,
                          "Notes":  "Credit: Oleh5230 (orig.) Â· Relax_68 (ModDB) â€” ModDB: https://www.moddb.com/mods/stalker-anomaly/addons/s2-bolt-collision-sounds"
-                     },
-                     {
-                         "Id":  "mmx-health",
-                         "Name":  "MMX-Health (MMX-Net / Logan)",
-                         "Version":  "1",
-                         "PackageUrl":  "extras/mmx-health.zip",
-                         "PackageSha256":  "65b9bead0c9d29b26e8edcd424fa38b41c7f2b2c41a403b7842ddad2819658e5",
-                         "PackageSizeBytes":  2608,
-                         "Notes":  "Credit: MMX-Net / Logan â€” first-party MMX"
                      },
                      {
                          "Id":  "mmx-economy",
