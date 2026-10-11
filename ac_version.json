@@ -1,9 +1,9 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1062",
+  "Version": "0.2.1063",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
-  "Notes": "Fix Weather Expansion da GitHub, Workshop aggiornato e compatibilita SHA per client vecchi.",
+  "Notes": "Aggiornamenti inclusi:\n- Weather Expansion si scarica direttamente e automaticamente dal feed GitHub MMX-Net; il collegamento ModDB resta disponibile come fonte originale.\n- Weather Expansion torna alla priorit\u00E0 460 nel profilo MMX-Base e le priorit\u00E0 inserite vengono riordinate senza duplicati.\n- Le schede Workshop si adattano meglio alla larghezza e il comando duplicato Rileva mod manuali \u00E8 stato rimosso da MMX-Category.\n- Corretto il collegamento del pacchetto di aggiornamento per evitare l\u0027errore 404.",
   "MinLauncherVersion": "0.1.0"
 }
