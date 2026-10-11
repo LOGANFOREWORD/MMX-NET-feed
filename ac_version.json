@@ -1,9 +1,9 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1069",
+  "Version": "0.2.1070",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
-  "Notes": "Aggiornamenti inclusi:\n- MMX-Base riallinea le mod ufficiali nello stesso ordine su tutti i PC.\n- MMX-Health viene riconosciuta come mod del profilo e non finisce piu in fondo alla lista.\n- Il launcher aggiorna automaticamente i pacchetti pubblicati del profilo, cosi gli utenti non restano con copie precedenti.\n- MMX-Economy e il kit di partenza vengono sincronizzati insieme agli altri pacchetti MMX-Base.",
+  "Notes": "Aggiornamenti inclusi:\n- MMX-Health si pu\u00F2 spostare nell\u0027Organizzatore.\n- MMX-T.H.A.P Rework Patch \u00E8 scaricabile e inclusa in MMX-Base.\n- Se installi T.H.A.P. Rework, il launcher richiede prima la patch.\n- Il cambio profilo avviene in background con indicatore di caricamento.\n- Quando un profilo scelto manca di mod pubblicate, il popup indica il profilo e consente di scaricarle.",
   "MinLauncherVersion": "0.1.0"
 }

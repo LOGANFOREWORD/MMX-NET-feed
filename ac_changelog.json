@@ -2,6 +2,33 @@
   "Schema": 1,
   "Releases": [
     {
+      "Version": "0.2.1070",
+      "AddedIt": [
+        "MMX-T.H.A.P Rework Patch è ora disponibile nel catalogo MMX e inclusa nel profilo MMX-Base."
+      ],
+      "AddedEn": [
+        "MMX-T.H.A.P Rework Patch is available in the MMX catalog and included in the MMX-Base profile."
+      ],
+      "RemovedIt": [],
+      "RemovedEn": [],
+      "ReworkIt": [
+        "Il cambio profilo mostra un caricamento e lascia libera l'interfaccia mentre applica le mod in background."
+      ],
+      "ReworkEn": [
+        "Profile changes show a loading indicator while the launcher applies the mods in the background."
+      ],
+      "FixIt": [
+        "MMX-Health si può spostare nell’Organizzatore.",
+        "Installando T.H.A.P. Rework, il launcher richiede e scarica prima la patch necessaria.",
+        "Il popup delle mod mancanti indica il nome del profilo selezionato."
+      ],
+      "FixEn": [
+        "MMX-Health can now be moved in the Organizer.",
+        "Installing T.H.A.P. Rework prompts for and installs its required patch first.",
+        "The missing-mod prompt identifies the selected profile."
+      ]
+    },
+    {
       "Version": "0.2.1069",
       "AddedIt": [],
       "AddedEn": [],
