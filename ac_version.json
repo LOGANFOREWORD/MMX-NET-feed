@@ -1,9 +1,9 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1071",
+  "Version": "0.2.1072",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
-  "Notes": "Aggiornamenti inclusi:\n- MMX-Health si pu\u00F2 spostare nell\u0027Organizzatore.\n- MMX-T.H.A.P Rework Patch \u00E8 scaricabile e inclusa in MMX-Base.\n- Il cambio profilo mostra un caricamento senza bloccare l\u0027interfaccia.\n- I popup delle mod mancanti indicano il profilo e permettono il download.\n- Corretto il pacchetto pubblico della patch: ora include la texture necessaria.",
+  "Notes": "Aggiornamenti inclusi:\n- Le mod pubblicate pi\u00F9 recenti vengono scaricate prima di avviare una partita, per mantenere aggiornato lo Startkit.\n- Il launcher confronta versione e contenuto dei pacchetti gi\u00E0 installati e aggiorna quelli non pi\u00F9 attuali.\n- Il profilo selezionato in MMX-Category resta allineato con MMX-Organizer.\n- I conteggi delle mod attive seguono l\u0027elenco visualizzato e non vengono sovrascritte le scelte salvate nei profili.\n- Migliorata la gestione del cambio profilo e dei pacchetti richiesti.",
   "MinLauncherVersion": "0.1.0"
 }

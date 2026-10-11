@@ -1,6 +1,6 @@
 ﻿{
     "Name":  "MMX-Net Extras",
-    "PublishedUtc":  "2026-10-11T21:10:30.3225944Z",
+    "PublishedUtc":  "2026-10-11T21:30:06.9280022Z",
     "Packages":  [
                      {
                          "Id":  "mcm",
@@ -335,8 +335,8 @@
                          "Name":  "3DSS MRAA Stack (party_50 · MsPizza727 · _Zazquatch_ · Napolemon (bundle MMX))",
                          "Version":  "1.0.0",
                          "PackageUrl":  "extras/3dss-mraa-stack.zip",
-                         "PackageSha256":  "d6d5b277de77533fa08543261567ee339a0be01cb3f9852fea703ff42d07692e",
-                         "PackageSizeBytes":  5997,
+                         "PackageSha256":  "2948f7836729e4a46d22f1cfbafcc2a6d77c7229bc32e858ae19fab9d4c89bba",
+                         "PackageSizeBytes":  3101811,
                          "Notes":  "Credit: party_50 · MsPizza727 · _Zazquatch_ · Napolemon (bundle MMX) â€” first-party MMX"
                      },
                      {
@@ -695,8 +695,8 @@
                          "Name":  "Dynamic Anomalies Overhaul (DAO) (TheMrDemonized)",
                          "Version":  "1",
                          "PackageUrl":  "extras/dynamic-anomalies-overhaul.zip",
-                         "PackageSha256":  "1c75f5cd64e3887abc5b1316015839302d7fe290d8513193f1075e3a89bb89c5",
-                         "PackageSizeBytes":  31190878,
+                         "PackageSha256":  "6ee67e99ac6b8b58908c1dae97a6a2404e04800e2fefa5394d6678162dc1517d",
+                         "PackageSizeBytes":  31190584,
                          "Notes":  "Credit: TheMrDemonized â€” ModDB: https://www.moddb.com/mods/stalker-anomaly/addons/dynamic-anomalies-overhaul-dao-read-description-please"
                      },
                      {
