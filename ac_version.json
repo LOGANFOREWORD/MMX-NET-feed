@@ -1,9 +1,9 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1074",
+  "Version": "0.2.1075",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
-  "Notes": "Aggiornamenti inclusi:\n- MMX-Base torna ai 60 pacchetti previsti, rimuovendo dall\u0027elenco i contenuti di altri profili senza cancellare le mod manuali.\n- Dopo un aggiornamento viene ripristinato il profilo salvato dell\u0027utente invece di ricadere su Anomaly.\n- L\u0027Organizer carica l\u0027ordine salvato per il profilo corretto e non mostra conteggi gonfiati dalle righe sintetiche.\n- MMX-Category indica il profilo Vanilla quando \u00E8 attivo il profilo Coop sicuro.\n- All\u0027avvio il launcher controlla i file delle mod gestite e ripristina automaticamente quelli mancanti o alterati dai pacchetti ufficiali disponibili. Le modifiche ai file vengono salvate prima del ripristino; i pacchetti manuali restano esclusi.",
+  "Notes": "Aggiornamenti inclusi:\n- MMX-Base torna ai 60 pacchetti previsti, rimuovendo dall\u0027elenco i contenuti di altri profili senza cancellare le mod manuali.\n- Dopo un aggiornamento viene ripristinato il profilo salvato dell\u0027utente invece di ricadere su Anomaly.\n- L\u0027Organizer carica l\u0027ordine salvato per il profilo corretto e non mostra conteggi gonfiati dalle righe sintetiche.\n- MMX-Category indica il profilo Vanilla quando \u00E8 attivo il profilo Coop sicuro.\n- All\u0027avvio il launcher controlla i file delle mod gestite e ripristina automaticamente quelli mancanti o alterati dai pacchetti ufficiali disponibili. Le modifiche ai file vengono salvate prima del ripristino; i pacchetti manuali restano esclusi.\n- La scansione dei file viene fatta una volta all\u0027apertura, in background, per mantenere fluida l\u0027interfaccia.",
   "MinLauncherVersion": "0.1.0"
 }
