@@ -1,9 +1,9 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1057",
+  "Version": "0.2.1059",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
-  "Notes": "Aggiornamento launcher: compatibilita SHA per client vecchi e scelta PLAY Solo/Coop.",
+  "Notes": "Fix Weather Expansion da GitHub, Workshop aggiornato e compatibilita SHA per client vecchi.",
   "MinLauncherVersion": "0.1.0"
 }
