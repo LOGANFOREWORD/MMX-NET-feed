@@ -2,6 +2,27 @@
   "Schema": 1,
   "Releases": [
     {
+      "Version": "0.2.1064",
+      "AddedIt": [],
+      "AddedEn": [],
+      "RemovedIt": [],
+      "RemovedEn": [],
+      "ReworkIt": [
+        "Le schede Workshop si ridimensionano in base alla finestra; il layout aggiornato viene incluso nell'aggiornamento launcher."
+      ],
+      "ReworkEn": [
+        "Workshop cards resize to fit the window; the updated layout is included in the launcher update."
+      ],
+      "FixIt": [
+        "Quando una copia e' ancora in avvio o occupata, la nuova apertura spiega di attendere e non propone di chiudere il launcher attivo.",
+        "Il pacchetto usa l'indirizzo stabile del feed, così anche i launcher più vecchi possono raggiungere l'ultima versione."
+      ],
+      "FixEn": [
+        "When an existing copy is starting or busy, a second launch asks the user to wait instead of offering to close it.",
+        "The package uses the stable feed address so older launchers can reach the current release."
+      ]
+    },
+    {
       "Version": "0.2.1053",
       "AddedIt": [],
       "AddedEn": [],
