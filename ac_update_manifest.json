@@ -5,7 +5,7 @@
   "Protocol": "89",
   "Engine": "ST",
   "Notes": "Fix Weather Expansion da GitHub, Workshop aggiornato e compatibilita SHA per client vecchi.",
-  "PackageUrl": "https://raw.githubusercontent.com/LOGANFOREWORD/MMX-NET-feed/main/ac-update.zip?v=0.2.1059",
+  "PackageUrl": "https://raw.githubusercontent.com/LOGANFOREWORD/MMX-NET-feed/main/ac-update-0.2.1059.zip",
   "PackageSha256": "2fa17e7e528dab143a4e23f4928c77772e154b14b92b197d9926e4ff5b2ca4e3",
   "GameContentSha256": "8322cc77d228c2a33bc0e43c66f5c3263a44a6561399432f3fd5e90d0ce1a1ac",
   "PublishedUtc": "2026-10-11T16:24:54.2251899Z",
