@@ -1,6 +1,6 @@
 ﻿{
     "Name":  "MMX-Net Extras",
-    "PublishedUtc":  "2026-10-11T15:04:21.3687412Z",
+    "PublishedUtc":  "2026-10-11T15:44:52.7483993Z",
     "Packages":  [
                      {
                          "Id":  "mmx-health",
@@ -252,10 +252,10 @@
                      {
                          "Id":  "mmx-pda",
                          "Name":  "MMX-PDA (MMX)",
-                         "Version":  "1.0.1",
+                         "Version":  "1",
                          "PackageUrl":  "extras/mmx-pda.zip",
-                         "PackageSha256":  "47d700bea02f569fcefa3d0aa7db6fe05440fe24de0770697cc7ff5eb6197c12",
-                         "PackageSizeBytes":  6509,
+                         "PackageSha256":  "1d769db5f918281192646e717c8b0169ad3dda4fb2b7309f5bc11b9baa3fb287",
+                         "PackageSizeBytes":  6914,
                          "Notes":  "Credit: MMX â€” first-party MMX"
                      },
                      {
