@@ -1,6 +1,6 @@
 ﻿{
     "Name":  "MMX-Net Extras",
-    "PublishedUtc":  "2026-10-11T21:06:56.4332326Z",
+    "PublishedUtc":  "2026-10-11T21:10:30.3225944Z",
     "Packages":  [
                      {
                          "Id":  "mcm",
@@ -198,11 +198,11 @@
                      {
                          "Id":  "mmx-thap-rework-patch",
                          "Name":  "MMX-T.H.A.P Rework Patch (MMX-Net)",
-                         "Version":  "0.1.2",
+                         "Version":  "1.0.0",
                          "PackageUrl":  "extras/mmx-thap-rework-patch.zip",
-                         "PackageSha256":  "ec1533bae2d3b685eb7f9abc5131d70942ff94c4c5d4546a5916038ccb967c2a",
-                         "PackageSizeBytes":  405,
-                         "Notes":  "Credit: MMX-Net — first-party MMX-Net; requisito: T.H.A.P. Rework 2.3."
+                         "PackageSha256":  "b6b2fafa881cd0cee0f5ec9b99e1a4d456468bd5c008d666e358419e172edeb7",
+                         "PackageSizeBytes":  1197,
+                         "Notes":  "Patch MMX per T.H.A.P. Rework 2.3; conserva la texture pelle e corregge la mappa bump/gloss."
                      },
                      {
                          "Id":  "self-kill",

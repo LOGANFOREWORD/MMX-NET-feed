@@ -2,6 +2,25 @@
   "Schema": 1,
   "Releases": [
     {
+      "Version": "0.2.1071",
+      "AddedIt": [],
+      "AddedEn": [],
+      "RemovedIt": [],
+      "RemovedEn": [],
+      "ReworkIt": [
+        "La pubblicazione verifica la texture della patch e include l'archivio sorgente completo."
+      ],
+      "ReworkEn": [
+        "The publishing process validates the patch texture and includes the complete source archive."
+      ],
+      "FixIt": [
+        "MMX-T.H.A.P Rework Patch viene distribuita con il file della texture, non solo con il marker."
+      ],
+      "FixEn": [
+        "MMX-T.H.A.P Rework Patch now ships its texture file instead of only its marker."
+      ]
+    },
+    {
       "Version": "0.2.1070",
       "AddedIt": [
         "MMX-T.H.A.P Rework Patch è ora disponibile nel catalogo MMX e inclusa nel profilo MMX-Base."
