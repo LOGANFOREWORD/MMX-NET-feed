@@ -2,6 +2,29 @@
   "Schema": 1,
   "Releases": [
     {
+      "Version": "0.2.1065",
+      "AddedIt": [],
+      "AddedEn": [],
+      "RemovedIt": [],
+      "RemovedEn": [],
+      "ReworkIt": [
+        "Weather Expansion viene riconosciuta anche quando la cartella mantiene il nome originale Weather Expansion for Atmospherics.",
+        "Le priorità delle mod incluse nel profilo vengono riallineate all ordine previsto dal pack, inclusa Weather Expansion al posto 460."
+      ],
+      "ReworkEn": [
+        "Weather Expansion is recognized even when its folder keeps the original Weather Expansion for Atmospherics name.",
+        "Mods included in the profile return to the pack intended order, including Weather Expansion at priority 460."
+      ],
+      "FixIt": [
+        "Le preferenze locali dell Organizer non bloccano più la Coop: serve pubblicare solo quando cambiano file di gioco condivisi.",
+        "Play Solo resta disponibile anche quando ci sono modifiche locali non pubblicate."
+      ],
+      "FixEn": [
+        "Local Organizer preferences no longer block co-op; publishing is only needed when shared game files change.",
+        "Play Solo remains available when local changes have not been published."
+      ]
+    },
+    {
       "Version": "0.2.1064",
       "AddedIt": [],
       "AddedEn": [],
