@@ -1,16 +1,7 @@
 ﻿{
     "Name":  "MMX-Net Extras",
-    "PublishedUtc":  "2026-10-11T20:28:40.5748520Z",
+    "PublishedUtc":  "2026-10-11T20:49:58.4789889Z",
     "Packages":  [
-                     {
-                         "Id":  "mmx-health",
-                         "Name":  "MMX-Health (MMX-Net / Logan)",
-                         "Version":  "1,2",
-                         "PackageUrl":  "extras/mmx-health.zip",
-                         "PackageSha256":  "9580c9d5faa4005afce61014618c3a1247a9e49ec81bcf90b679318c818a9f93",
-                         "PackageSizeBytes":  3086,
-                         "Notes":  "Credit: MMX-Net / Logan — MMX-Creator — Essenziale first-party in MMX-Base. Build sperimentale diagnostica; non applica ancora fix prestazionali. Seed: extras/mmx-health.zip."
-                     },
                      {
                          "Id":  "mcm",
                          "Name":  "Anomaly Mod Configuration Menu (MCM)",
@@ -657,10 +648,19 @@
                      {
                          "Id":  "mmx-economy",
                          "Name":  "MMX-Economy (MMX-Net / Logan)",
-                         "Version":  "1",
+                         "Version":  "0.5.12",
                          "PackageUrl":  "extras/mmx-economy.zip",
-                         "PackageSha256":  "2f60022e644fc41ca7e94fb0b712d356e7ee67771207fd0e4b155d1709dd1900",
-                         "PackageSizeBytes":  28819,
+                         "PackageSha256":  "6061cd13f5ee1034eaa026761412e60c889f5fa5f72ce5bdc94df08f625f8aa8",
+                         "PackageSizeBytes":  28768,
+                         "Notes":  "Credit: MMX-Net / Logan â€” first-party MMX"
+                     },
+                     {
+                         "Id":  "mmx-health",
+                         "Name":  "MMX-Health (MMX-Net / Logan)",
+                         "Version":  "1",
+                         "PackageUrl":  "extras/mmx-health.zip",
+                         "PackageSha256":  "2b8d97b5b8470915f55bc4fda29ab9f3fa281e224919b9cc6f69833c7da93c8c",
+                         "PackageSizeBytes":  3225,
                          "Notes":  "Credit: MMX-Net / Logan â€” first-party MMX"
                      },
                      {

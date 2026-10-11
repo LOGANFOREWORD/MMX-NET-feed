@@ -1,9 +1,9 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1068",
+  "Version": "0.2.1069",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
-  "Notes": "Aggiornamenti inclusi:\n- Tutte le mod visibili ora hanno priorit\u00E0 consecutive: 1, 2, 3\u2026 senza salti o fasce separate.\n- Trascinare o cambiare la posizione rinumera automaticamente le mod mantenendo l ordine salvato nel profilo.\n- Le vecchie priorit\u00E0 vengono convertite senza perdere l ordine scelto.\n- Weather Expansion segue la stessa sequenza delle altre mod.",
+  "Notes": "Aggiornamenti inclusi:\n- MMX-Base riallinea le mod ufficiali nello stesso ordine su tutti i PC.\n- MMX-Health viene riconosciuta come mod del profilo e non finisce piu in fondo alla lista.\n- Il launcher aggiorna automaticamente i pacchetti pubblicati del profilo, cosi gli utenti non restano con copie precedenti.\n- MMX-Economy e il kit di partenza vengono sincronizzati insieme agli altri pacchetti MMX-Base.",
   "MinLauncherVersion": "0.1.0"
 }

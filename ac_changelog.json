@@ -2,6 +2,29 @@
   "Schema": 1,
   "Releases": [
     {
+      "Version": "0.2.1069",
+      "AddedIt": [],
+      "AddedEn": [],
+      "RemovedIt": [],
+      "RemovedEn": [],
+      "ReworkIt": [
+        "MMX-Base mantiene lo stesso ordine delle mod ufficiali sui PC degli amici.",
+        "Il kit di partenza e MMX-Economy vengono aggiornati insieme al resto del profilo."
+      ],
+      "ReworkEn": [
+        "MMX-Base keeps the same official mod order on other players PCs.",
+        "The starting kit and MMX-Economy update with the rest of the profile."
+      ],
+      "FixIt": [
+        "MMX-Health viene riconosciuta e collocata nella posizione prevista dal profilo, invece di finire in fondo alla lista.",
+        "Dopo l aggiornamento il launcher controlla anche gli altri pacchetti pubblicati del profilo e aggiorna quelli rimasti indietro."
+      ],
+      "FixEn": [
+        "MMX-Health is recognized and placed where the profile expects it instead of appearing at the end of the list.",
+        "After launcher updates, other published profile packages are checked and updated when out of date."
+      ]
+    },
+    {
       "Version": "0.2.1068",
       "AddedIt": [],
       "AddedEn": [],
