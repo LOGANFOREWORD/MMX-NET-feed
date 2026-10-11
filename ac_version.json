@@ -1,9 +1,9 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1055",
+  "Version": "0.2.1057",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
-  "Notes": "* Weather Expansion mantiene il collegamento alla pagina ModDB originale.\n* Il pulsante di installazione resta uguale agli altri e installa il pacchetto automaticamente.",
+  "Notes": "Aggiornamento launcher: compatibilita SHA per client vecchi e scelta PLAY Solo/Coop.",
   "MinLauncherVersion": "0.1.0"
 }
