@@ -1,9 +1,9 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1067",
+  "Version": "0.2.1068",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
-  "Notes": "Aggiornamenti inclusi:\n- L ordine delle mod e i numeri mostrati restano allineati: non ci sono pi\u00F9 priorit\u00E0 duplicate, righe fuori sequenza o correzioni di un solo numero.\n- Weather Expansion resta a 460 e la mod successiva riceve 470, senza lasciare posizioni vuote.\n- Le vecchie priorit\u00E0 locali del profilo vengono migrate senza cambiare l ordine scelto dal giocatore.",
+  "Notes": "Aggiornamenti inclusi:\n- Tutte le mod visibili ora hanno priorit\u00E0 consecutive: 1, 2, 3\u2026 senza salti o fasce separate.\n- Trascinare o cambiare la posizione rinumera automaticamente le mod mantenendo l ordine salvato nel profilo.\n- Le vecchie priorit\u00E0 vengono convertite senza perdere l ordine scelto.\n- Weather Expansion segue la stessa sequenza delle altre mod.",
   "MinLauncherVersion": "0.1.0"
 }

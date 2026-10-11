@@ -2,6 +2,29 @@
   "Schema": 1,
   "Releases": [
     {
+      "Version": "0.2.1068",
+      "AddedIt": [],
+      "AddedEn": [],
+      "RemovedIt": [],
+      "RemovedEn": [],
+      "ReworkIt": [
+        "Le priorità di tutte le mod visibili sono consecutive: 1, 2, 3… senza salti o fasce separate.",
+        "La numerazione segue l ordine salvato nel profilo dopo trascinamento o modifica della posizione.",
+        "Weather Expansion segue la stessa numerazione delle altre mod."
+      ],
+      "ReworkEn": [
+        "Every visible mod now has a consecutive priority: 1, 2, 3… without gaps or separate bands.",
+        "Priorities follow the profile order after dragging or changing a position.",
+        "Weather Expansion uses the same numbering as every other mod."
+      ],
+      "FixIt": [
+        "Le vecchie priorità vengono convertite preservando l ordine scelto."
+      ],
+      "FixEn": [
+        "Existing priorities are migrated while preserving the saved order."
+      ]
+    },
+    {
       "Version": "0.2.1067",
       "AddedIt": [],
       "AddedEn": [],
