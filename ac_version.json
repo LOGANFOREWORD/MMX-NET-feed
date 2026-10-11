@@ -1,9 +1,9 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1072",
+  "Version": "0.2.1073",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
-  "Notes": "Aggiornamenti inclusi:\n- Le mod pubblicate pi\u00F9 recenti vengono scaricate prima di avviare una partita, per mantenere aggiornato lo Startkit.\n- Il launcher confronta versione e contenuto dei pacchetti gi\u00E0 installati e aggiorna quelli non pi\u00F9 attuali.\n- Il profilo selezionato in MMX-Category resta allineato con MMX-Organizer.\n- I conteggi delle mod attive seguono l\u0027elenco visualizzato e non vengono sovrascritte le scelte salvate nei profili.\n- Migliorata la gestione del cambio profilo e dei pacchetti richiesti.",
+  "Notes": "Aggiornamenti inclusi:\n- MMX-Base torna ai 60 pacchetti previsti, rimuovendo dall\u0027elenco i contenuti di altri profili senza cancellare le mod manuali.\n- Dopo un aggiornamento viene ripristinato il profilo salvato dell\u0027utente invece di ricadere su Anomaly.\n- L\u0027Organizer carica l\u0027ordine salvato per il profilo corretto e non mostra conteggi gonfiati dalle righe sintetiche.\n- MMX-Category indica il profilo Vanilla quando \u00E8 attivo il profilo Coop sicuro.",
   "MinLauncherVersion": "0.1.0"
 }

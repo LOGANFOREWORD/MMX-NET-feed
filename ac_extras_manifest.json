@@ -1,6 +1,6 @@
 ﻿{
     "Name":  "MMX-Net Extras",
-    "PublishedUtc":  "2026-10-11T21:30:06.9280022Z",
+    "PublishedUtc":  "2026-10-11T21:49:47.6481418Z",
     "Packages":  [
                      {
                          "Id":  "mcm",
@@ -218,9 +218,9 @@
                          "Name":  "Gunslinger Controller (TheMrDemonized)",
                          "Version":  "1",
                          "PackageUrl":  "extras/gunslinger-controller.zip",
-                         "PackageSha256":  "93d74fed570b690f2d7b066cde32d4bbc0bb1791d26e5113ac8f1caf0e42ed25",
-                         "PackageSizeBytes":  712329,
-                         "Notes":  "Credit: TheMrDemonized — ModDB: https://www.moddb.com/mods/stalker-anomaly/addons/dltx-and-wct-required-gunslinger-controller"
+                         "PackageSha256":  "85ae8c97d63f191e08a90ede94c1d6d31125961c47315d3400e1c7d2c7c8fafb",
+                         "PackageSizeBytes":  401,
+                         "Notes":  "Credit: TheMrDemonized â€” ModDB: https://www.moddb.com/mods/stalker-anomaly/addons/dltx-and-wct-required-gunslinger-controller"
                      },
                      {
                          "Id":  "water-flask-rework",
@@ -261,11 +261,11 @@
                      {
                          "Id":  "mmx-pda-expansive",
                          "Name":  "MMX-PDA-Expansive (MMX-Net / Logan (mesh APE: Norfair_ix))",
-                         "Version":  "0.1.2",
+                         "Version":  "1",
                          "PackageUrl":  "extras/mmx-pda-expansive.zip",
-                         "PackageSha256":  "020ea4f0f7f38aeab2efc80cd953b93cbcd3d43590e232365db290a6ca2ca202",
-                         "PackageSizeBytes":  1312263,
-                         "Notes":  "Credit: MMX-Net / Logan (mesh APE: Norfair_ix) — ModDB: "
+                         "PackageSha256":  "cab93731e3662ef98e4d37441e5a9c92db6139559f14a2c37d9e8d26fb96c9b2",
+                         "PackageSizeBytes":  548,
+                         "Notes":  "Credit: MMX-Net / Logan (mesh APE: Norfair_ix) â€” first-party MMX"
                      },
                      {
                          "Id":  "ragdoll-preset-dux-fvm",
@@ -299,8 +299,8 @@
                          "Name":  "Anomaly PDA Extended (Norfair_ix)",
                          "Version":  "1",
                          "PackageUrl":  "extras/anomaly-pda-extended.zip",
-                         "PackageSha256":  "07c6357cf00c18774fe8e54ace64f96660901ac9ae2e9e54467d4b1bc6714ae6",
-                         "PackageSizeBytes":  1372771,
+                         "PackageSha256":  "0ba158ffd876024c556e0ab4e53170e9dc889344757093ef60e360e82c70b3f9",
+                         "PackageSizeBytes":  1372837,
                          "Notes":  "Credit: Norfair_ix â€” ModDB: https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-pda-extended"
                      },
                      {
@@ -337,7 +337,7 @@
                          "PackageUrl":  "extras/3dss-mraa-stack.zip",
                          "PackageSha256":  "2948f7836729e4a46d22f1cfbafcc2a6d77c7229bc32e858ae19fab9d4c89bba",
                          "PackageSizeBytes":  3101811,
-                         "Notes":  "Credit: party_50 · MsPizza727 · _Zazquatch_ · Napolemon (bundle MMX) â€” first-party MMX"
+                         "Notes":  "Credit: party_50 · MsPizza727 · _Zazquatch_ · Napolemon (bundle MMX) — ModDB: "
                      },
                      {
                          "Id":  "3dss-vanilla-stack",
@@ -524,8 +524,8 @@
                          "Name":  "Aydin\u0027s Bare Bars 1.0 (aytabag)",
                          "Version":  "1",
                          "PackageUrl":  "extras/aydins-bare-bars.zip",
-                         "PackageSha256":  "261135aeb3e4837bb4f08b3cc857a33b80446ee44daadc839f83cc8a918ed848",
-                         "PackageSizeBytes":  183644,
+                         "PackageSha256":  "df35c515fa47b5424ba802a232dd9e11b2dc240e585ac8baa2c74c25b717106e",
+                         "PackageSizeBytes":  183665,
                          "Notes":  "Credit: aytabag â€” ModDB: https://www.moddb.com/mods/stalker-anomaly/addons/aydins-bare-bars-10"
                      },
                      {
@@ -621,11 +621,11 @@
                      {
                          "Id":  "new-aim-sway-alternative",
                          "Name":  "New Aim Sway (alternative) (hyomiru)",
-                         "Version":  "1.0.0",
+                         "Version":  "1",
                          "PackageUrl":  "extras/new-aim-sway-alternative.zip",
-                         "PackageSha256":  "24ab75852adea10b66a14cec9ccad7e5b02d0497289dec337decd1e72470aa8f",
-                         "PackageSizeBytes":  1477,
-                         "Notes":  "Credit: hyomiru — ModDB: https://www.moddb.com/mods/stalker-anomaly/addons/new-aim-sway-alternative"
+                         "PackageSha256":  "0963f725353384738f9c2c3ca688d9e6954b0f7d084009188530d1f1bd95834c",
+                         "PackageSizeBytes":  417,
+                         "Notes":  "Credit: hyomiru â€” ModDB: https://www.moddb.com/mods/stalker-anomaly/addons/new-aim-sway-alternative"
                      },
                      {
                          "Id":  "m249-reanimation",
@@ -668,8 +668,8 @@
                          "Name":  "MMX-Health (MMX-Net / Logan)",
                          "Version":  "1",
                          "PackageUrl":  "extras/mmx-health.zip",
-                         "PackageSha256":  "f1e8fcffa14d670c3bf50f1993de4e3f78188ef6cb82175a588938723a01c516",
-                         "PackageSizeBytes":  3184,
+                         "PackageSha256":  "f882fad2dadac91e8a89bfbb9494a08d4588dd92f21565f14a1e25bc3afa077d",
+                         "PackageSizeBytes":  3212,
                          "Notes":  "Credit: MMX-Net / Logan â€” first-party MMX"
                      },
                      {
