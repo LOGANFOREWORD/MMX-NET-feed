@@ -2,6 +2,29 @@
   "Schema": 1,
   "Releases": [
     {
+      "Version": "0.2.1067",
+      "AddedIt": [],
+      "AddedEn": [],
+      "RemovedIt": [],
+      "RemovedEn": [],
+      "ReworkIt": [
+        "L ordine visibile e le priorità vengono sincronizzati, così una mod non appare più sopra una riga con numero inferiore.",
+        "Weather Expansion resta a 460 e la mod successiva occupa 470; i valori residui di mod mancanti non creano più buchi."
+      ],
+      "ReworkEn": [
+        "The visible order and priorities stay in sync, so a mod no longer appears above a row with a lower number.",
+        "Weather Expansion stays at 460 and the next mod uses 470; stale values for missing mods no longer create gaps."
+      ],
+      "FixIt": [
+        "Le priorità duplicate vengono riorganizzate a passi coerenti invece di aggiungere 1 (per esempio 431).",
+        "Le vecchie priorità locali del profilo vengono riallineate mantenendo l ordine salvato dal giocatore."
+      ],
+      "FixEn": [
+        "Duplicate priorities are repaired in consistent steps instead of adding 1 (for example, 431).",
+        "Old local profile priorities are aligned while preserving the player saved order."
+      ]
+    },
+    {
       "Version": "0.2.1066",
       "AddedIt": [],
       "AddedEn": [],

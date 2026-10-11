@@ -1,9 +1,9 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1066",
+  "Version": "0.2.1067",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
-  "Notes": "Aggiornamenti inclusi:\n- Il profilo usa le priorit\u00E0 condivise per la sequenza delle mod: Handling a 430, You are (not) suppressed a 440, Quality of Life a 450 e Weather Expansion a 460.\n- Le posizioni vengono mantenute anche se sul computer di un giocatore manca una mod o sono rimaste vecchie priorit\u00E0 locali.\n- I posti non vengono pi\u00F9 saltati per valori rimasti salvati per mod non presenti.",
+  "Notes": "Aggiornamenti inclusi:\n- L ordine delle mod e i numeri mostrati restano allineati: non ci sono pi\u00F9 priorit\u00E0 duplicate, righe fuori sequenza o correzioni di un solo numero.\n- Weather Expansion resta a 460 e la mod successiva riceve 470, senza lasciare posizioni vuote.\n- Le vecchie priorit\u00E0 locali del profilo vengono migrate senza cambiare l ordine scelto dal giocatore.",
   "MinLauncherVersion": "0.1.0"
 }
