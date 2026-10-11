@@ -2,6 +2,27 @@
   "Schema": 1,
   "Releases": [
     {
+      "Version": "0.2.1066",
+      "AddedIt": [],
+      "AddedEn": [],
+      "RemovedIt": [],
+      "RemovedEn": [],
+      "ReworkIt": [
+        "Le priorità del profilo restano coerenti tra i giocatori: Handling 430, You are (not) suppressed 440, Quality of Life 450 e Weather Expansion 460."
+      ],
+      "ReworkEn": [
+        "Profile priorities now stay consistent between players: Handling 430, You are (not) suppressed 440, Quality of Life 450, and Weather Expansion 460."
+      ],
+      "FixIt": [
+        "L elenco non salta più una posizione quando una vecchia priorità appartiene a una mod assente.",
+        "Le priorità salvate localmente non spostano più le mod fisse del profilo."
+      ],
+      "FixEn": [
+        "The list no longer skips a position when a stale priority belongs to a missing mod.",
+        "Saved local priorities no longer move the profile anchor mods."
+      ]
+    },
+    {
       "Version": "0.2.1065",
       "AddedIt": [],
       "AddedEn": [],
