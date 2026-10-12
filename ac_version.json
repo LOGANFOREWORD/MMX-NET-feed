@@ -1,9 +1,9 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1082",
+  "Version": "0.2.1084",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
-  "Notes": "MMX-Base riallinea 3DSS MRAA Stack e Gunslinger Controller e corregge la disattivazione automatica.",
+  "Notes": "MMX-Base allineato al profilo approvato; ingresso co-op pi\u00F9 stabile nello Start Kit.",
   "MinLauncherVersion": "0.1.0"
 }

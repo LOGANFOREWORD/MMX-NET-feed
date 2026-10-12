@@ -2,7 +2,7 @@
   "Schema": 1,
   "Releases": [
     {
-      "Version": "0.2.1082",
+      "Version": "0.2.1084",
       "AddedIt": [],
       "AddedEn": [],
       "RemovedIt": [],
@@ -10,29 +10,12 @@
       "ReworkIt": [],
       "ReworkEn": [],
       "FixIt": [
-        "Corretto il profilo MMX-Base: 3DSS MRAA Stack e Gunslinger Controller restano attive e il conteggio torna a 67 mod."
+        "MMX-Base torna a 67 mod: MMX-PDA-Expansive è esclusa, mentre 3DSS MRAA Stack e Anomaly PDA Extended restano nel profilo.",
+        "Durante l'ingresso in cooperativa, Start non reinvia la selezione del personaggio finché l'host completa il caricamento."
       ],
       "FixEn": [
-        "Fixed the MMX-Base profile so 3DSS MRAA Stack and Gunslinger Controller stay enabled, restoring the 67-mod count."
-      ]
-    },
-    {
-      "Version": "0.2.1081",
-      "AddedIt": [],
-      "AddedEn": [],
-      "RemovedIt": [],
-      "RemovedEn": [],
-      "ReworkIt": [
-        "Per Quality of Life ora si vede il progresso dei file."
-      ],
-      "ReworkEn": [
-        "Quality of Life now shows file progress."
-      ],
-      "FixIt": [
-        "Ripristinati archivi completi e verificati per Gunslinger Controller, New Aim Sway e T.H.A.P. Rework Patch."
-      ],
-      "FixEn": [
-        "Restored complete, verified archives for Gunslinger Controller, New Aim Sway, and the T.H.A.P. Rework Patch."
+        "MMX-Base returns to 67 mods: MMX-PDA-Expansive is excluded, while 3DSS MRAA Stack and Anomaly PDA Extended remain in the profile.",
+        "During co-op joining, Start no longer resends character selection while the host is completing the load."
       ]
     },
     {
