@@ -2,6 +2,29 @@
   "Schema": 1,
   "Releases": [
     {
+      "Version": "0.2.1078",
+      "AddedIt": [
+        "MMX-Base è stato allineato a 67 mod condivise."
+      ],
+      "AddedEn": [
+        "MMX-Base is now aligned to the shared set of 67 mods."
+      ],
+      "RemovedIt": [],
+      "RemovedEn": [],
+      "ReworkIt": [
+        "Il profilo MMX-Base mantiene la lista approvata dopo l'aggiornamento."
+      ],
+      "ReworkEn": [
+        "MMX-Base keeps the approved mod list after updating."
+      ],
+      "FixIt": [
+        "Le mod già installate restano al loro posto."
+      ],
+      "FixEn": [
+        "Already installed mods stay in place."
+      ]
+    },
+    {
       "Version": "0.2.1071",
       "AddedIt": [],
       "AddedEn": [],
