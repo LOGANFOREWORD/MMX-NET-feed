@@ -1,6 +1,6 @@
 {
   "Name": "MMX-Net Extras",
-  "PublishedUtc": "2026-10-12T17:04:23.0795366Z",
+  "PublishedUtc": "2026-10-12T17:29:29.1209924Z",
   "Packages": [
     {
       "Id": "mcm",
@@ -253,7 +253,7 @@
       "Id": "mmx-pda-expansive",
       "Name": "MMX-PDA-Expansive (MMX-Net / Logan (mesh APE: Norfair_ix))",
       "Version": "0.1.2",
-      "PackageUrl": "extras/mmx-pda-expansive.zip",
+      "PackageUrl": "https://github.com/LOGANFOREWORD/MMX-NET/releases/download/launcher-0.2.1080/mmx-pda-expansive.zip",
       "PackageSha256": "020ea4f0f7f38aeab2efc80cd953b93cbcd3d43590e232365db290a6ca2ca202",
       "PackageSizeBytes": 1312263,
       "Notes": "Credit: MMX-Net / Logan (mesh APE: Norfair_ix) — ModDB: "
@@ -325,9 +325,9 @@
       "Id": "3dss-mraa-stack",
       "Name": "3DSS MRAA Stack (party_50 · MsPizza727 · _Zazquatch_ · Napolemon (bundle MMX))",
       "Version": "1.0.0",
-      "PackageUrl": "extras/3dss-mraa-stack.zip",
-      "PackageSha256": "d6d5b277de77533fa08543261567ee339a0be01cb3f9852fea703ff42d07692e",
-      "PackageSizeBytes": 5997,
+      "PackageUrl": "https://github.com/LOGANFOREWORD/MMX-NET/releases/download/launcher-0.2.1080/3dss-mraa-stack.zip",
+      "PackageSha256": "514168fe1ef1f2dc343b7a34a0866c0dd961b50241dd2f025a8e6bd50119c2f2",
+      "PackageSizeBytes": 72809363,
       "Notes": "Credit: party_50 · MsPizza727 · _Zazquatch_ · Napolemon (bundle MMX) â€” first-party MMX"
     },
     {
@@ -754,6 +754,24 @@
       "ModDbPageUrl": "https://www.moddb.com/mods/stalker-anomaly/addons/thap-rework",
       "ModDbDownloadUrl": "https://www.moddb.com/addons/start/217507",
       "Notes": "Fonte originale: IENCE, ModDB. Il launcher scarica il pacchetto verificato dal GitHub MMX-Net; il pulsante ModDB resta collegato alla fonte originale."
+    },
+    {
+      "Id": "mmx-quality-of-life",
+      "Name": "MMX-QualityOfLife (MMX-Net / Logan (bundle); Body Search: lizzardman)",
+      "Version": "0.2.1013",
+      "PackageUrl": "https://github.com/LOGANFOREWORD/MMX-NET/releases/download/wfe-0.2.1010/mmx-quality-of-life-0.2.1013.zip",
+      "PackageSha256": "0096d02cc352058b07b907b1a82ed62cdc91c7be0540cb4299e2d72490a48f96",
+      "PackageSizeBytes": 222288978,
+      "Notes": "1013 marker-in-component zip; GitHub Release asset mmx-quality-of-life-0.2.1013.zip."
+    },
+    {
+      "Id": "weapon-fix-extended",
+      "Name": "Weapon Fix - Extended",
+      "Version": "0.2.1010",
+      "PackageUrl": "https://github.com/LOGANFOREWORD/MMX-NET/releases/download/wfe-0.2.1010/weapon-fix-extended.zip",
+      "PackageSha256": "df71a43ddb161e192e0982c871bf0da7407c3e6b1b5f149b6257ab095b1941bc",
+      "PackageSizeBytes": 1911331297,
+      "Notes": "Bundle WFE slim+soft; >100MB -> GitHub Release asset (max 2GB). Non raw/blob."
     }
   ]
 }
