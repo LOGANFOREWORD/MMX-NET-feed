@@ -1,0 +1,594 @@
+{
+  "Entries": [
+    {
+      "Version": "0.2.1081",
+      "PublishedUtc": "2026-10-12T18:48:28.4988011Z",
+      "Notes": "Aggiornamenti inclusi:\n- Corretti i pacchetti Gunslinger Controller, New Aim Sway e T.H.A.P. Rework Patch, così il launcher scarica archivi completi e verificati.\n- Per Quality of Life ora viene mostrato il progresso dei file.\n- Migliorata la gestione delle installazioni ferme."
+    },
+    {
+      "Version": "0.2.1075",
+      "PublishedUtc": "2026-10-11T22:24:51.7237743Z",
+      "Notes": "Aggiornamenti inclusi:\n- MMX-Base torna ai 60 pacchetti previsti, rimuovendo dall'elenco i contenuti di altri profili senza cancellare le mod manuali.\n- Dopo un aggiornamento viene ripristinato il profilo salvato dell'utente invece di ricadere su Anomaly.\n- L'Organizer carica l'ordine salvato per il profilo corretto e non mostra conteggi gonfiati dalle righe sintetiche.\n- MMX-Category indica il profilo Vanilla quando è attivo il profilo Coop sicuro.\n- All'avvio il launcher controlla i file delle mod gestite e ripristina automaticamente quelli mancanti o alterati dai pacchetti ufficiali disponibili. Le modifiche ai file vengono salvate prima del ripristino; i pacchetti manuali restano esclusi.\n- La scansione dei file viene fatta una volta all'apertura, in background, per mantenere fluida l'interfaccia."
+    },
+    {
+      "Version": "0.2.1074",
+      "PublishedUtc": "2026-10-11T22:22:47.3365174Z",
+      "Notes": "Aggiornamenti inclusi:\n- MMX-Base torna ai 60 pacchetti previsti, rimuovendo dall'elenco i contenuti di altri profili senza cancellare le mod manuali.\n- Dopo un aggiornamento viene ripristinato il profilo salvato dell'utente invece di ricadere su Anomaly.\n- L'Organizer carica l'ordine salvato per il profilo corretto e non mostra conteggi gonfiati dalle righe sintetiche.\n- MMX-Category indica il profilo Vanilla quando è attivo il profilo Coop sicuro.\n- All'avvio il launcher controlla i file delle mod gestite e ripristina automaticamente quelli mancanti o alterati dai pacchetti ufficiali disponibili. Le modifiche ai file vengono salvate prima del ripristino; i pacchetti manuali restano esclusi."
+    },
+    {
+      "Version": "0.2.1073",
+      "PublishedUtc": "2026-10-11T21:49:44.9431483Z",
+      "Notes": "Aggiornamenti inclusi:\n- MMX-Base torna ai 60 pacchetti previsti, rimuovendo dall'elenco i contenuti di altri profili senza cancellare le mod manuali.\n- Dopo un aggiornamento viene ripristinato il profilo salvato dell'utente invece di ricadere su Anomaly.\n- L'Organizer carica l'ordine salvato per il profilo corretto e non mostra conteggi gonfiati dalle righe sintetiche.\n- MMX-Category indica il profilo Vanilla quando è attivo il profilo Coop sicuro."
+    },
+    {
+      "Version": "0.2.1072",
+      "PublishedUtc": "2026-10-11T21:30:04.1558095Z",
+      "Notes": "Aggiornamenti inclusi:\n- Le mod pubblicate più recenti vengono scaricate prima di avviare una partita, per mantenere aggiornato lo Startkit.\n- Il launcher confronta versione e contenuto dei pacchetti già installati e aggiorna quelli non più attuali.\n- Il profilo selezionato in MMX-Category resta allineato con MMX-Organizer.\n- I conteggi delle mod attive seguono l'elenco visualizzato e non vengono sovrascritte le scelte salvate nei profili.\n- Migliorata la gestione del cambio profilo e dei pacchetti richiesti."
+    },
+    {
+      "Version": "0.2.1071",
+      "PublishedUtc": "2026-10-11T21:10:27.8934354Z",
+      "Notes": "Aggiornamenti inclusi:\n- MMX-Health si può spostare nell'Organizzatore.\n- MMX-T.H.A.P Rework Patch è scaricabile e inclusa in MMX-Base.\n- Il cambio profilo mostra un caricamento senza bloccare l'interfaccia.\n- I popup delle mod mancanti indicano il profilo e permettono il download.\n- Corretto il pacchetto pubblico della patch: ora include la texture necessaria."
+    },
+    {
+      "Version": "0.2.1070",
+      "PublishedUtc": "2026-10-11T21:06:53.8019845Z",
+      "Notes": "Aggiornamenti inclusi:\n- MMX-Health si può spostare nell'Organizzatore.\n- MMX-T.H.A.P Rework Patch è scaricabile e inclusa in MMX-Base.\n- Se installi T.H.A.P. Rework, il launcher richiede prima la patch.\n- Il cambio profilo avviene in background con indicatore di caricamento.\n- Quando un profilo scelto manca di mod pubblicate, il popup indica il profilo e consente di scaricarle."
+    },
+    {
+      "Version": "0.2.1069",
+      "PublishedUtc": "2026-10-11T20:49:54.8877477Z",
+      "Notes": "Aggiornamenti inclusi:\n- MMX-Base riallinea le mod ufficiali nello stesso ordine su tutti i PC.\n- MMX-Health viene riconosciuta come mod del profilo e non finisce piu in fondo alla lista.\n- Il launcher aggiorna automaticamente i pacchetti pubblicati del profilo, cosi gli utenti non restano con copie precedenti.\n- MMX-Economy e il kit di partenza vengono sincronizzati insieme agli altri pacchetti MMX-Base."
+    },
+    {
+      "Version": "0.2.1068",
+      "PublishedUtc": "2026-10-11T20:28:37.1352127Z",
+      "Notes": "Aggiornamenti inclusi:\n- Tutte le mod visibili ora hanno priorità consecutive: 1, 2, 3… senza salti o fasce separate.\n- Trascinare o cambiare la posizione rinumera automaticamente le mod mantenendo l ordine salvato nel profilo.\n- Le vecchie priorità vengono convertite senza perdere l ordine scelto.\n- Weather Expansion segue la stessa sequenza delle altre mod."
+    },
+    {
+      "Version": "0.2.1067",
+      "PublishedUtc": "2026-10-11T20:16:08.5838424Z",
+      "Notes": "Aggiornamenti inclusi:\n- L ordine delle mod e i numeri mostrati restano allineati: non ci sono più priorità duplicate, righe fuori sequenza o correzioni di un solo numero.\n- Weather Expansion resta a 460 e la mod successiva riceve 470, senza lasciare posizioni vuote.\n- Le vecchie priorità locali del profilo vengono migrate senza cambiare l ordine scelto dal giocatore."
+    },
+    {
+      "Version": "0.2.1066",
+      "PublishedUtc": "2026-10-11T20:01:13.3170931Z",
+      "Notes": "Aggiornamenti inclusi:\n- Il profilo usa le priorità condivise per la sequenza delle mod: Handling a 430, You are (not) suppressed a 440, Quality of Life a 450 e Weather Expansion a 460.\n- Le posizioni vengono mantenute anche se sul computer di un giocatore manca una mod o sono rimaste vecchie priorità locali.\n- I posti non vengono più saltati per valori rimasti salvati per mod non presenti."
+    },
+    {
+      "Version": "0.2.1065",
+      "PublishedUtc": "2026-10-11T19:41:39.4409588Z",
+      "Notes": "Aggiornamenti inclusi:\n- Le modifiche locali all ordine delle mod non bloccano più il gioco in Coop; la pubblicazione è richiesta solo per cambiamenti che incidono sul contenuto condiviso.\n- Weather Expansion viene riconosciuta anche con la cartella originale “Weather Expansion for Atmospherics” e può essere gestita dal profilo.\n- Le priorità delle mod del pack tornano ai posti previsti dal profilo, compreso Weather Expansion al posto 460.\n- Play Solo resta disponibile anche quando ci sono modifiche locali non ancora pubblicate."
+    },
+    {
+      "Version": "0.2.1064",
+      "PublishedUtc": "2026-10-11T18:25:46.8024645Z",
+      "Notes": "Aggiornamenti inclusi:\n- Le schede del Workshop si adattano alla finestra e arrivano anche a chi aggiorna da versioni precedenti del launcher.\n- Se il launcher e' ancora in avvio o occupato, la seconda apertura avvisa di attendere senza proporre di chiudere la copia attiva.\n- Weather Expansion resta al posto 460 in MMX-Base; l'aggiornamento usa il collegamento stabile del feed per evitare errori 404."
+    },
+    {
+      "Version": "0.2.1063",
+      "PublishedUtc": "2026-10-11T17:53:26.5487155Z",
+      "Notes": "Aggiornamenti inclusi:\n- Weather Expansion si scarica direttamente e automaticamente dal feed GitHub MMX-Net; il collegamento ModDB resta disponibile come fonte originale.\n- Weather Expansion torna alla priorità 460 nel profilo MMX-Base e le priorità inserite vengono riordinate senza duplicati.\n- Le schede Workshop si adattano meglio alla larghezza e il comando duplicato Rileva mod manuali è stato rimosso da MMX-Category.\n- Corretto il collegamento del pacchetto di aggiornamento per evitare l'errore 404."
+    },
+    {
+      "Version": "0.2.1062",
+      "PublishedUtc": "2026-10-11T16:49:38.5499331Z",
+      "Notes": "Fix Weather Expansion da GitHub, Workshop aggiornato e compatibilita SHA per client vecchi."
+    },
+    {
+      "Version": "0.2.1061",
+      "PublishedUtc": "2026-10-11T16:42:26.0331983Z",
+      "Notes": "Fix Weather Expansion da GitHub, Workshop aggiornato e compatibilita SHA per client vecchi."
+    },
+    {
+      "Version": "0.2.1060",
+      "PublishedUtc": "2026-10-11T16:39:00.5897691Z",
+      "Notes": "Fix Weather Expansion da GitHub, Workshop aggiornato e compatibilita SHA per client vecchi."
+    },
+    {
+      "Version": "0.2.1059",
+      "PublishedUtc": "2026-10-11T16:24:54.2729183Z",
+      "Notes": "Fix Weather Expansion da GitHub, Workshop aggiornato e compatibilita SHA per client vecchi."
+    },
+    {
+      "Version": "0.2.1057",
+      "PublishedUtc": "2026-10-11T16:11:26.923988Z",
+      "Notes": "Aggiornamento launcher: compatibilita SHA per client vecchi e scelta PLAY Solo/Coop."
+    },
+    {
+      "Version": "0.2.1055",
+      "PublishedUtc": "2026-10-11T15:44:50.0953136Z",
+      "Notes": "* Weather Expansion mantiene il collegamento alla pagina ModDB originale.\n* Il pulsante di installazione resta uguale agli altri e installa il pacchetto automaticamente."
+    },
+    {
+      "Version": "0.2.1054",
+      "PublishedUtc": "2026-10-11T15:04:18.8719991Z",
+      "Notes": "* Weather Expansion mantiene il collegamento alla pagina ModDB originale.\n* Il pulsante di installazione resta uguale agli altri e installa il pacchetto automaticamente."
+    },
+    {
+      "Version": "0.2.1051",
+      "PublishedUtc": "2026-10-11T14:36:14.8323877Z",
+      "Notes": "* La priorità di una mod ora si modifica con un cursore chiaro e colori coerenti con il tema.\r\n* Il tasto Ripristina riporta il profilo selezionato al suo ordine iniziale senza disattivare mod.\r\n* Premi Applica dopo il ripristino per sincronizzare ordine e gioco."
+    },
+    {
+      "Version": "0.2.1048",
+      "PublishedUtc": "2026-10-10T19:37:38.7309765Z",
+      "Notes": "* MMX-Economy è Essenziale nel profilo mmx-base (catalogo WorkshopEssential).\n* Overlay trader/loadout MMX-Economy attivi (DLTX mod_trade_<root>_mmx_economy*).\n* Zip extras/mmx-economy.zip v0.5.10 + skip install se già presente.\n* Rebuild User con gate FileVersion/SHA (feed 1033 ripulito)."
+    },
+    {
+      "Version": "0.2.1047",
+      "PublishedUtc": "2026-10-10T19:16:17.8498755Z",
+      "Notes": "* MMX-Economy è Essenziale nel profilo mmx-base (catalogo WorkshopEssential).\n* Overlay trader/loadout MMX-Economy attivi (DLTX mod_trade_<root>_mmx_economy*).\n* Zip extras/mmx-economy.zip v0.5.10 + skip install se già presente.\n* Rebuild User con gate FileVersion/SHA (feed 1033 ripulito)."
+    },
+    {
+      "Version": "0.2.1044",
+      "PublishedUtc": "2026-10-10T18:43:27.6379472Z",
+      "Notes": "* MMX-Economy è Essenziale nel profilo mmx-base (catalogo WorkshopEssential).\n* Overlay trader/loadout MMX-Economy attivi (DLTX mod_trade_<root>_mmx_economy*).\n* Zip extras/mmx-economy.zip v0.5.10 + skip install se già presente.\n* Rebuild User con gate FileVersion/SHA (feed 1033 ripulito)."
+    },
+    {
+      "Version": "0.2.1043",
+      "PublishedUtc": "2026-10-10T18:37:36.7465874Z",
+      "Notes": "* MMX-Economy è Essenziale nel profilo mmx-base (catalogo WorkshopEssential).\n* Overlay trader/loadout MMX-Economy attivi (DLTX mod_trade_<root>_mmx_economy*).\n* Zip extras/mmx-economy.zip v0.5.10 + skip install se già presente.\n* Rebuild User con gate FileVersion/SHA (feed 1033 ripulito)."
+    },
+    {
+      "Version": "0.2.1042",
+      "PublishedUtc": "2026-10-10T18:13:14.528308Z",
+      "Notes": "* MMX-Economy è Essenziale nel profilo mmx-base (catalogo WorkshopEssential).\n* Overlay trader/loadout MMX-Economy attivi (DLTX mod_trade_<root>_mmx_economy*).\n* Zip extras/mmx-economy.zip v0.5.10 + skip install se già presente.\n* Rebuild User con gate FileVersion/SHA (feed 1033 ripulito)."
+    },
+    {
+      "Version": "0.2.1040",
+      "PublishedUtc": "2026-10-10T17:19:19.2563981Z",
+      "Notes": "* MMX-Economy è Essenziale nel profilo mmx-base (catalogo WorkshopEssential).\n* Overlay trader/loadout MMX-Economy attivi (DLTX mod_trade_<root>_mmx_economy*).\n* Zip extras/mmx-economy.zip v0.5.10 + skip install se già presente.\n* Rebuild User con gate FileVersion/SHA (feed 1033 ripulito)."
+    },
+    {
+      "Version": "0.2.1039",
+      "PublishedUtc": "2026-10-10T16:22:49.3299838Z",
+      "Notes": "* MMX-Economy è Essenziale nel profilo mmx-base (catalogo WorkshopEssential).\n* Overlay trader/loadout MMX-Economy attivi (DLTX mod_trade_<root>_mmx_economy*).\n* Zip extras/mmx-economy.zip v0.5.10 + skip install se già presente.\n* Rebuild User con gate FileVersion/SHA (feed 1033 ripulito)."
+    },
+    {
+      "Version": "0.2.1038",
+      "PublishedUtc": "2026-10-10T15:19:28.2780448Z",
+      "Notes": "* MMX-Economy è Essenziale nel profilo mmx-base (catalogo WorkshopEssential).\n* Overlay trader/loadout MMX-Economy attivi (DLTX mod_trade_<root>_mmx_economy*).\n* Zip extras/mmx-economy.zip v0.5.10 + skip install se già presente.\n* Rebuild User con gate FileVersion/SHA (feed 1033 ripulito)."
+    },
+    {
+      "Version": "0.2.1037",
+      "PublishedUtc": "2026-10-10T13:57:07.3912856Z",
+      "Notes": "* MMX-Economy è Essenziale nel profilo mmx-base (catalogo WorkshopEssential).\n* Overlay trader/loadout MMX-Economy attivi (DLTX mod_trade_<root>_mmx_economy*).\n* Zip extras/mmx-economy.zip v0.5.10 + skip install se già presente.\n* Rebuild User con gate FileVersion/SHA (feed 1033 ripulito)."
+    },
+    {
+      "Version": "0.2.1036",
+      "PublishedUtc": "2026-10-10T13:49:15.6751048Z",
+      "Notes": "* MMX-Economy è Essenziale nel profilo mmx-base (catalogo WorkshopEssential).\n* Overlay trader/loadout MMX-Economy attivi (DLTX mod_trade_<root>_mmx_economy*).\n* Zip extras/mmx-economy.zip v0.5.10 + skip install se già presente.\n* Rebuild User con gate FileVersion/SHA (feed 1033 ripulito)."
+    },
+    {
+      "Version": "0.2.1035",
+      "PublishedUtc": "2026-10-10T12:20:53.6502586Z",
+      "Notes": "* MMX-Economy è Essenziale nel profilo mmx-base (catalogo WorkshopEssential).\n* Overlay trader/loadout MMX-Economy attivi (DLTX mod_trade_<root>_mmx_economy*).\n* Zip extras/mmx-economy.zip v0.5.10 + skip install se già presente.\n* Rebuild User con gate FileVersion/SHA (feed 1033 ripulito)."
+    },
+    {
+      "Version": "0.2.1033",
+      "PublishedUtc": "2026-10-09T20:33:21.8727739Z",
+      "Notes": "* Launcher User aggiornato con le modifiche MMX Profile e Amici.\n* Aggiornate UI e localizzazioni del launcher.\n* Aggiornati menu Join the Zone e indicatori UI in gioco.\n* Aggiornato l'ordine mod MMX-Net incluso nel feed.\n* Controlli pre-push del Devkit: tutte le modifiche rilevate incluse nello ZIP User."
+    },
+    {
+      "Version": "0.2.1032",
+      "PublishedUtc": "2026-10-09T20:04:42.5946758Z",
+      "Notes": "* Launcher User aggiornato con le modifiche MMX Profile e Amici.\n* Aggiornate UI e localizzazioni del launcher.\n* Aggiornati menu Join the Zone e indicatori UI in gioco.\n* Aggiornato l'ordine mod MMX-Net incluso nel feed.\n* Controlli pre-push del Devkit: tutte le modifiche rilevate incluse nello ZIP User."
+    },
+    {
+      "Version": "0.2.1031",
+      "PublishedUtc": "2026-10-09T17:27:58.5542672Z",
+      "Notes": "* Launcher User aggiornato con le modifiche MMX Profile e Amici.\n* Aggiornate UI e localizzazioni del launcher.\n* Aggiornati menu Join the Zone e indicatori UI in gioco.\n* Aggiornato l'ordine mod MMX-Net incluso nel feed.\n* Controlli pre-push del Devkit: tutte le modifiche rilevate incluse nello ZIP User."
+    },
+    {
+      "Version": "0.2.1030",
+      "PublishedUtc": "2026-10-08T23:06:28.0163925Z",
+      "Notes": "* Launcher User aggiornato con le modifiche MMX Profile e Amici.\n* Aggiornate UI e localizzazioni del launcher.\n* Aggiornati menu Join the Zone e indicatori UI in gioco.\n* Aggiornato l'ordine mod MMX-Net incluso nel feed.\n* Controlli pre-push del Devkit: tutte le modifiche rilevate incluse nello ZIP User."
+    },
+    {
+      "Version": "0.2.1029",
+      "PublishedUtc": "2026-10-08T22:06:58.1694882Z",
+      "Notes": "* Launcher User aggiornato con le modifiche MMX Profile e Amici.\n* Aggiornate UI e localizzazioni del launcher.\n* Aggiornati menu Join the Zone e indicatori UI in gioco.\n* Aggiornato l'ordine mod MMX-Net incluso nel feed.\n* Controlli pre-push del Devkit: tutte le modifiche rilevate incluse nello ZIP User."
+    },
+    {
+      "Version": "0.2.1028",
+      "PublishedUtc": "2026-10-08T21:52:22.1596497Z",
+      "Notes": "* Launcher User aggiornato con le modifiche MMX Profile e Amici.\n* Aggiornate UI e localizzazioni del launcher.\n* Aggiornati menu Join the Zone e indicatori UI in gioco.\n* Aggiornato l'ordine mod MMX-Net incluso nel feed.\n* Controlli pre-push del Devkit: tutte le modifiche rilevate incluse nello ZIP User."
+    },
+    {
+      "Version": "0.2.1027",
+      "PublishedUtc": "2026-10-08T21:10:57.8069167Z",
+      "Notes": "* Launcher User aggiornato con le modifiche MMX Profile e Amici.\n* Aggiornate UI e localizzazioni del launcher.\n* Aggiornati menu Join the Zone e indicatori UI in gioco.\n* Aggiornato l'ordine mod MMX-Net incluso nel feed.\n* Controlli pre-push del Devkit: tutte le modifiche rilevate incluse nello ZIP User."
+    },
+    {
+      "Version": "0.2.1026",
+      "PublishedUtc": "2026-10-08T19:38:33.4014646Z",
+      "Notes": "* Launcher User aggiornato con le modifiche MMX Profile e Amici.\n* Aggiornate UI e localizzazioni del launcher.\n* Aggiornati menu Join the Zone e indicatori UI in gioco.\n* Aggiornato l'ordine mod MMX-Net incluso nel feed.\n* Controlli pre-push del Devkit: tutte le modifiche rilevate incluse nello ZIP User."
+    },
+    {
+      "Version": "0.2.1025",
+      "PublishedUtc": "2026-10-08T18:59:29.9896579Z",
+      "Notes": "* Launcher User aggiornato con le modifiche MMX Profile e Amici.\n* Aggiornate UI e localizzazioni del launcher.\n* Aggiornati menu Join the Zone e indicatori UI in gioco.\n* Aggiornato l'ordine mod MMX-Net incluso nel feed.\n* Controlli pre-push del Devkit: tutte le modifiche rilevate incluse nello ZIP User."
+    },
+    {
+      "Version": "0.2.1024",
+      "PublishedUtc": "2026-10-08T18:42:10.4801754Z",
+      "Notes": "* Launcher User aggiornato con le modifiche MMX Profile e Amici.\n* Aggiornate UI e localizzazioni del launcher.\n* Aggiornati menu Join the Zone e indicatori UI in gioco.\n* Aggiornato l'ordine mod MMX-Net incluso nel feed.\n* Controlli pre-push del Devkit: tutte le modifiche rilevate incluse nello ZIP User."
+    },
+    {
+      "Version": "0.2.1023",
+      "PublishedUtc": "2026-10-08T18:15:05.775306Z",
+      "Notes": "* Launcher User aggiornato con le modifiche MMX Profile e Amici.\n* Aggiornate UI e localizzazioni del launcher.\n* Aggiornati menu Join the Zone e indicatori UI in gioco.\n* Aggiornato l'ordine mod MMX-Net incluso nel feed.\n* Controlli pre-push del Devkit: tutte le modifiche rilevate incluse nello ZIP User."
+    },
+    {
+      "Version": "0.2.1022",
+      "PublishedUtc": "2026-10-06T17:16:48.6427366Z",
+      "Notes": "* 1019: bump CARICA (feed push dopo abort same-version su clone sync).\n* 1016: profili allineati su Home/Workshop (radio UniformGrid 4x108).\n* Bottone/testi launcher: \"Join the Zone\" (ex Connect to Session).\n* Meno cali di FPS (mmx-core: seconda bussola e script ottimizzati FRAMEDROP-001 p2).\n* Build AV-free (no avmeta). Notes ASCII (->)."
+    },
+    {
+      "Version": "0.2.1021",
+      "PublishedUtc": "2026-10-06T07:58:19.3812306Z",
+      "Notes": "* 1019: bump CARICA (feed push dopo abort same-version su clone sync).\n* 1016: profili allineati su Home/Workshop (radio UniformGrid 4x108).\n* Bottone/testi launcher: \"Join the Zone\" (ex Connect to Session).\n* Meno cali di FPS (mmx-core: seconda bussola e script ottimizzati FRAMEDROP-001 p2).\n* Build AV-free (no avmeta). Notes ASCII (->)."
+    },
+    {
+      "Version": "0.2.1020",
+      "PublishedUtc": "2026-10-05T21:55:50.3131874Z",
+      "Notes": "* 1019: bump CARICA (feed push dopo abort same-version su clone sync).\n* 1016: profili allineati su Home/Workshop (radio UniformGrid 4x108).\n* Bottone/testi launcher: \"Join the Zone\" (ex Connect to Session).\n* Meno cali di FPS (mmx-core: seconda bussola e script ottimizzati FRAMEDROP-001 p2).\n* Build AV-free (no avmeta). Notes ASCII (->)."
+    },
+    {
+      "Version": "0.2.1018",
+      "PublishedUtc": "2026-10-05T21:26:54.7357275Z",
+      "Notes": "* 1016: profili allineati su Home/Workshop (radio UniformGrid 4x108).\n* Bottone/testi launcher: \"Join the Zone\" (ex Connect to Session).\n* Meno cali di FPS (mmx-core: seconda bussola e script ottimizzati FRAMEDROP-001 p2).\n* Build AV-free (no avmeta). Notes ASCII (->)."
+    },
+    {
+      "Version": "0.2.1017",
+      "PublishedUtc": "2026-10-05T21:25:45.1881078Z",
+      "Notes": "* 1016: profili allineati su Home/Workshop (radio UniformGrid 4x108).\n* Bottone/testi launcher: \"Join the Zone\" (ex Connect to Session).\n* Meno cali di FPS (mmx-core: seconda bussola e script ottimizzati FRAMEDROP-001 p2).\n* Build AV-free (no avmeta). Notes ASCII (->)."
+    },
+    {
+      "Version": "0.2.1011",
+      "PublishedUtc": "2026-10-05T16:11:23.0920861Z",
+      "Notes": "* MMX-Base PackList allineato al set attivo Logan (seed ModOrganizerLiteService).\n* Post-AGGIORNA: sync pack gestiti weapon-fix-extended + mmx-quality-of-life (install componenti nuovi; prune SOLO filelist pack, mai mod custom).\n* Summary Workshop: «rimosse X, installate Y».\n* WFE: entry feed via GitHub Release asset (zip >100MB) — vedi docs/_stage_0.2.1010_FEED_WFE_NOTES.md.\n* QoL: allineare PackageUrl/SHA nel republish feed.\n* Primo avvio del launcher nuovo (versione exe/ac_version diversa da ac_launcher_last_run.json): sync pack gestiti WFE + MMX-QoL anche se AGGIORNA e' stato fatto dal launcher vecchio. Prune solo filelist pack."
+    },
+    {
+      "Version": "0.2.1008",
+      "PublishedUtc": "2026-10-05T15:38:43.8207762Z",
+      "Notes": "* Annulla download ModDB/coda: CTS + bottone attivo in prep + svuota job rimanenti in coda.\n* Weather Expansion: stub/partial extras non bloccano ModDB; coda profilo senza wait browser 4 min.\n* UI download MB/% / coda / fase senza {0}.\n* Amico: AGGIORNA poi Annulla funziona anche a meta coda."
+    },
+    {
+      "Version": "0.2.1007",
+      "PublishedUtc": "2026-10-05T15:26:20.2705454Z",
+      "Notes": "* Annulla download ModDB/coda: CTS + bottone attivo in prep + svuota job rimanenti in coda.\n* Weather Expansion: stub/partial extras non bloccano ModDB; coda profilo senza wait browser 4 min.\n* UI download MB/% / coda / fase senza {0}.\n* Amico: AGGIORNA poi Annulla funziona anche a meta coda."
+    },
+    {
+      "Version": "0.2.1006",
+      "PublishedUtc": "2026-10-05T15:10:37.421661Z",
+      "Notes": "* Annulla download ModDB/coda: CTS + bottone attivo in prep + svuota job rimanenti in coda.\n* Weather Expansion: stub/partial extras non bloccano ModDB; coda profilo senza wait browser 4 min.\n* UI download MB/% / coda / fase senza {0}.\n* Amico: AGGIORNA poi Annulla funziona anche a meta coda."
+    },
+    {
+      "Version": "0.2.1005",
+      "PublishedUtc": "2026-10-03T20:34:07.5456269Z",
+      "Notes": "* Annulla download ModDB/coda: CTS + bottone attivo in prep + svuota job rimanenti in coda.\n* Weather Expansion: stub/partial extras non bloccano ModDB; coda profilo senza wait browser 4 min.\n* UI download MB/% / coda / fase senza {0}.\n* Amico: AGGIORNA poi Annulla funziona anche a meta coda."
+    },
+    {
+      "Version": "0.2.1002",
+      "PublishedUtc": "2026-10-03T20:10:17.6291153Z",
+      "Notes": "* Fix Settings in-game: keybind mmx_lobby_code non iniettato (hang UIOptions); path Options vanilla.\n* Join soft-timeout half-open (25s) + tip peer stuck (soft-timeout tipo Base Coop); no EndSession se GNS gia connesso.\n* Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n* Addons -> Installa base coop se HEALTH FATAL su xrr_player_name.\n* Addons -> Installa MCM se manca ui_mcm / MCM incompleto.\n* Fix CTD menu/inventory: currency + MMX_NET_send_money.\n* Controllo salute piu chiaro, RIPARA STEAM se serve; PLAY apre CTA se FATAL.\n* Musica launcher; menu di gioco con immagini nuove."
+    },
+    {
+      "Version": "0.2.1000",
+      "PublishedUtc": "2026-10-03T19:26:13.0372774Z",
+      "Notes": "* Fix Settings in-game: keybind mmx_lobby_code non iniettato (hang UIOptions); path Options vanilla.\n* Join soft-timeout half-open (25s) + tip peer stuck (soft-timeout tipo Base Coop); no EndSession se GNS gia connesso.\n* Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n* Addons -> Installa base coop se HEALTH FATAL su xrr_player_name.\n* Addons -> Installa MCM se manca ui_mcm / MCM incompleto.\n* Fix CTD menu/inventory: currency + MMX_NET_send_money.\n* Controllo salute piu chiaro, RIPARA STEAM se serve; PLAY apre CTA se FATAL.\n* Musica launcher; menu di gioco con immagini nuove."
+    },
+    {
+      "Version": "0.1.999",
+      "PublishedUtc": "2026-10-03T17:22:31.2992395Z",
+      "Notes": "* Fix Settings in-game: keybind mmx_lobby_code non iniettato (hang UIOptions); path Options vanilla.\n* Join soft-timeout half-open (25s) + tip peer stuck (soft-timeout tipo Base Coop); no EndSession se GNS gia connesso.\n* Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n* Addons -> Installa base coop se HEALTH FATAL su xrr_player_name.\n* Addons -> Installa MCM se manca ui_mcm / MCM incompleto.\n* Fix CTD menu/inventory: currency + MMX_NET_send_money.\n* Controllo salute piu chiaro, RIPARA STEAM se serve; PLAY apre CTA se FATAL.\n* Musica launcher; menu di gioco con immagini nuove."
+    },
+    {
+      "Version": "0.1.980",
+      "PublishedUtc": "2026-10-02T21:25:31.3165867Z",
+      "Notes": "* Fix Settings in-game: keybind mmx_lobby_code non iniettato (hang UIOptions); path Options vanilla.\n* Join soft-timeout half-open (25s) + tip peer stuck (soft-timeout tipo Base Coop); no EndSession se GNS gia connesso.\n* Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n* Addons -> Installa base coop se HEALTH FATAL su xrr_player_name.\n* Addons -> Installa MCM se manca ui_mcm / MCM incompleto.\n* Fix CTD menu/inventory: currency + MMX_NET_send_money.\n* Controllo salute piu chiaro, RIPARA STEAM se serve; PLAY apre CTA se FATAL.\n* Musica launcher; menu di gioco con immagini nuove."
+    },
+    {
+      "Version": "0.1.978",
+      "PublishedUtc": "2026-10-02T20:07:01.2783676Z",
+      "Notes": "* Fix Settings in-game: keybind mmx_lobby_code non iniettato (hang UIOptions); path Options vanilla.\n* Join soft-timeout half-open (25s) + tip peer stuck (soft-timeout tipo Base Coop); no EndSession se GNS gia connesso.\n* Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n* Addons -> Installa base coop se HEALTH FATAL su xrr_player_name.\n* Addons -> Installa MCM se manca ui_mcm / MCM incompleto.\n* Fix CTD menu/inventory: currency + MMX_NET_send_money.\n* Controllo salute piu chiaro, RIPARA STEAM se serve; PLAY apre CTA se FATAL.\n* Musica launcher; menu di gioco con immagini nuove."
+    },
+    {
+      "Version": "0.1.977",
+      "PublishedUtc": "2026-10-02T18:42:05.1791476Z",
+      "Notes": "* Fix Settings in-game: keybind mmx_lobby_code non iniettato (hang UIOptions); path Options vanilla.\n* Join soft-timeout half-open (25s) + tip peer stuck (soft-timeout tipo Base Coop); no EndSession se GNS gia connesso.\n* Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n* Addons -> Installa base coop se HEALTH FATAL su xrr_player_name.\n* Addons -> Installa MCM se manca ui_mcm / MCM incompleto.\n* Fix CTD menu/inventory: currency + MMX_NET_send_money.\n* Controllo salute piu chiaro, RIPARA STEAM se serve; PLAY apre CTA se FATAL.\n* Musica launcher; menu di gioco con immagini nuove."
+    },
+    {
+      "Version": "0.1.976",
+      "PublishedUtc": "2026-10-02T17:33:56.3402304Z",
+      "Notes": "* Fix Settings in-game: keybind mmx_lobby_code non iniettato (hang UIOptions); path Options vanilla.\n* Join soft-timeout half-open (25s) + tip peer stuck (soft-timeout tipo Base Coop); no EndSession se GNS gia connesso.\n* Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n* Addons -> Installa base coop se HEALTH FATAL su xrr_player_name.\n* Addons -> Installa MCM se manca ui_mcm / MCM incompleto.\n* Fix CTD menu/inventory: currency + MMX_NET_send_money.\n* Controllo salute piu chiaro, RIPARA STEAM se serve; PLAY apre CTA se FATAL.\n* Musica launcher; menu di gioco con immagini nuove."
+    },
+    {
+      "Version": "0.1.975",
+      "PublishedUtc": "2026-10-02T17:13:05.3394056Z",
+      "Notes": "* Fix Settings in-game: keybind mmx_lobby_code non iniettato (hang UIOptions); path Options vanilla.\n* Join soft-timeout half-open (25s) + tip peer stuck (soft-timeout tipo Base Coop); no EndSession se GNS gia connesso.\n* Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n* Addons -> Installa base coop se HEALTH FATAL su xrr_player_name.\n* Addons -> Installa MCM se manca ui_mcm / MCM incompleto.\n* Fix CTD menu/inventory: currency + MMX_NET_send_money.\n* Controllo salute piu chiaro, RIPARA STEAM se serve; PLAY apre CTA se FATAL.\n* Musica launcher; menu di gioco con immagini nuove."
+    },
+    {
+      "Version": "0.1.973",
+      "PublishedUtc": "2026-10-02T16:07:15.6558747Z",
+      "Notes": "* Fix Settings in-game: keybind mmx_lobby_code non iniettato (hang UIOptions); path Options vanilla.\n* Join soft-timeout half-open (25s) + tip peer stuck (soft-timeout tipo Base Coop); no EndSession se GNS gia connesso.\n* Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n* Addons -> Installa base coop se HEALTH FATAL su xrr_player_name.\n* Addons -> Installa MCM se manca ui_mcm / MCM incompleto.\n* Fix CTD menu/inventory: currency + MMX_NET_send_money.\n* Controllo salute piu chiaro, RIPARA STEAM se serve; PLAY apre CTA se FATAL.\n* Musica launcher; menu di gioco con immagini nuove."
+    },
+    {
+      "Version": "0.1.972",
+      "PublishedUtc": "2026-10-02T14:48:13.404842Z",
+      "Notes": "* Fix Settings in-game: keybind mmx_lobby_code non iniettato (hang UIOptions); path Options vanilla.\n* Join soft-timeout half-open (25s) + tip peer stuck (soft-timeout tipo Base Coop); no EndSession se GNS gia connesso.\n* Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n* Addons -> Installa base coop se HEALTH FATAL su xrr_player_name.\n* Addons -> Installa MCM se manca ui_mcm / MCM incompleto.\n* Fix CTD menu/inventory: currency + MMX_NET_send_money.\n* Controllo salute piu chiaro, RIPARA STEAM se serve; PLAY apre CTA se FATAL.\n* Musica launcher; menu di gioco con immagini nuove."
+    },
+    {
+      "Version": "0.1.971",
+      "PublishedUtc": "2026-10-02T14:04:30.2436927Z",
+      "Notes": "* Fix Settings in-game: keybind mmx_lobby_code non iniettato (hang UIOptions); path Options vanilla.\n* Join soft-timeout half-open (25s) + tip peer stuck (soft-timeout tipo Base Coop); no EndSession se GNS gia connesso.\n* Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n* Addons -> Installa base coop se HEALTH FATAL su xrr_player_name.\n* Addons -> Installa MCM se manca ui_mcm / MCM incompleto.\n* Fix CTD menu/inventory: currency + MMX_NET_send_money.\n* Controllo salute piu chiaro, RIPARA STEAM se serve; PLAY apre CTA se FATAL.\n* Musica launcher; menu di gioco con immagini nuove."
+    },
+    {
+      "Version": "0.1.97",
+      "PublishedUtc": "2026-10-02T13:47:45.6227976Z",
+      "Notes": "* Fix Settings in-game: keybind mmx_lobby_code non iniettato (hang UIOptions); path Options vanilla.\n* Join soft-timeout half-open (25s) + tip peer stuck (soft-timeout tipo Base Coop); no EndSession se GNS gia connesso.\n* Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n* Addons -> Installa base coop se HEALTH FATAL su xrr_player_name.\n* Addons -> Installa MCM se manca ui_mcm / MCM incompleto.\n* Fix CTD menu/inventory: currency + MMX_NET_send_money.\n* Controllo salute piu chiaro, RIPARA STEAM se serve; PLAY apre CTA se FATAL.\n* Musica launcher; menu di gioco con immagini nuove."
+    },
+    {
+      "Version": "0.1.96",
+      "PublishedUtc": "2026-10-02T13:30:47.500267Z",
+      "Notes": "* Fix Settings in-game: keybind mmx_lobby_code non iniettato (hang UIOptions); path Options vanilla.\n* Join soft-timeout half-open (25s) + tip peer stuck (soft-timeout tipo Base Coop); no EndSession se GNS gia connesso.\n* Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n* Addons -> Installa base coop se HEALTH FATAL su xrr_player_name.\n* Addons -> Installa MCM se manca ui_mcm / MCM incompleto.\n* Fix CTD menu/inventory: currency + MMX_NET_send_money.\n* Controllo salute piu chiaro, RIPARA STEAM se serve; PLAY apre CTA se FATAL.\n* Musica launcher; menu di gioco con immagini nuove."
+    },
+    {
+      "Version": "0.1.95",
+      "PublishedUtc": "2026-10-01T19:24:00.2457903Z",
+      "Notes": "* Fix Settings in-game: keybind mmx_lobby_code non iniettato (hang UIOptions); path Options vanilla.\n* Join soft-timeout half-open (25s) + tip peer stuck (soft-timeout tipo Base Coop); no EndSession se GNS gia connesso.\n* Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n* Addons -> Installa base coop se HEALTH FATAL su xrr_player_name.\n* Addons -> Installa MCM se manca ui_mcm / MCM incompleto.\n* Fix CTD menu/inventory: currency + MMX_NET_send_money.\n* Controllo salute piu chiaro, RIPARA STEAM se serve; PLAY apre CTA se FATAL.\n* Musica launcher; menu di gioco con immagini nuove."
+    },
+    {
+      "Version": "0.1.94",
+      "PublishedUtc": "2026-10-01T19:18:37.37675Z",
+      "Notes": "* Fix Settings in-game: keybind mmx_lobby_code non iniettato (hang UIOptions); path Options vanilla.\n* Join soft-timeout half-open (25s) + tip peer stuck (soft-timeout tipo Base Coop); no EndSession se GNS gia connesso.\n* Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n* Addons -> Installa base coop se HEALTH FATAL su xrr_player_name.\n* Addons -> Installa MCM se manca ui_mcm / MCM incompleto.\n* Fix CTD menu/inventory: currency + MMX_NET_send_money.\n* Controllo salute piu chiaro, RIPARA STEAM se serve; PLAY apre CTA se FATAL.\n* Musica launcher; menu di gioco con immagini nuove."
+    },
+    {
+      "Version": "0.1.932",
+      "PublishedUtc": "2026-10-01T16:35:35.7672337Z",
+      "Notes": "* Fix Settings in-game: keybind mmx_lobby_code non iniettato (hang UIOptions); path Options vanilla.\n* Join soft-timeout half-open (25s) + tip peer stuck (soft-timeout tipo Base Coop); no EndSession se GNS gia connesso.\n* Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n* Addons -> Installa base coop se HEALTH FATAL su xrr_player_name.\n* Addons -> Installa MCM se manca ui_mcm / MCM incompleto.\n* Fix CTD menu/inventory: currency + MMX_NET_send_money.\n* Controllo salute piu chiaro, RIPARA STEAM se serve; PLAY apre CTA se FATAL.\n* Musica launcher; menu di gioco con immagini nuove."
+    },
+    {
+      "Version": "0.1.931",
+      "PublishedUtc": "2026-10-01T14:48:51.2608474Z",
+      "Notes": "* Fix Settings in-game: keybind mmx_lobby_code non iniettato (hang UIOptions); path Options vanilla.\n* Join soft-timeout half-open (25s) + tip peer stuck (soft-timeout tipo Base Coop); no EndSession se GNS gia connesso.\n* Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n* Addons -> Installa base coop se HEALTH FATAL su xrr_player_name.\n* Addons -> Installa MCM se manca ui_mcm / MCM incompleto.\n* Fix CTD menu/inventory: currency + MMX_NET_send_money.\n* Controllo salute piu chiaro, RIPARA STEAM se serve; PLAY apre CTA se FATAL.\n* Musica launcher; menu di gioco con immagini nuove."
+    },
+    {
+      "Version": "0.1.93",
+      "PublishedUtc": "2026-10-01T13:53:15.2665401Z",
+      "Notes": "* Fix Settings in-game: keybind mmx_lobby_code non iniettato (hang UIOptions); path Options vanilla.\n* Join soft-timeout half-open (25s) + tip peer stuck (soft-timeout tipo Base Coop); no EndSession se GNS gia connesso.\n* Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n* Addons -> Installa base coop se HEALTH FATAL su xrr_player_name.\n* Addons -> Installa MCM se manca ui_mcm / MCM incompleto.\n* Fix CTD menu/inventory: currency + MMX_NET_send_money.\n* Controllo salute piu chiaro, RIPARA STEAM se serve; PLAY apre CTA se FATAL.\n* Musica launcher; menu di gioco con immagini nuove."
+    },
+    {
+      "Version": "0.1.92",
+      "PublishedUtc": "2026-09-30T19:12:19.9063538Z",
+      "Notes": "* Fix Settings in-game: keybind mmx_lobby_code non iniettato (hang UIOptions); path Options vanilla.\n* Join soft-timeout half-open (25s) + tip peer stuck (soft-timeout tipo Base Coop); no EndSession se GNS gia connesso.\n* Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n* Addons -> Installa base coop se HEALTH FATAL su xrr_player_name.\n* Addons -> Installa MCM se manca ui_mcm / MCM incompleto.\n* Fix CTD menu/inventory: currency + MMX_NET_send_money.\n* Controllo salute piu chiaro, RIPARA STEAM se serve; PLAY apre CTA se FATAL.\n* Musica launcher; menu di gioco con immagini nuove."
+    },
+    {
+      "Version": "0.1.91",
+      "PublishedUtc": "2026-09-29T21:26:57.5244784Z",
+      "Notes": "* Fix Settings in-game: keybind mmx_lobby_code non iniettato (hang UIOptions); path Options vanilla.\n* Join soft-timeout half-open (25s) + tip peer stuck (soft-timeout tipo Base Coop); no EndSession se GNS gia connesso.\n* Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n* Addons -> Installa base coop se HEALTH FATAL su xrr_player_name.\n* Addons -> Installa MCM se manca ui_mcm / MCM incompleto.\n* Fix CTD menu/inventory: currency + MMX_NET_send_money.\n* Controllo salute piu chiaro, RIPARA STEAM se serve; PLAY apre CTA se FATAL.\n* Musica launcher; menu di gioco con immagini nuove."
+    },
+    {
+      "Version": "0.1.90",
+      "PublishedUtc": "2026-09-29T19:54:21.0397957Z",
+      "Notes": "* Fix Settings in-game: keybind mmx_lobby_code non iniettato (hang UIOptions); path Options vanilla.\n* Join soft-timeout half-open (25s) + tip peer stuck (soft-timeout tipo Base Coop); no EndSession se GNS gia connesso.\n* Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n* Addons -> Installa base coop se HEALTH FATAL su xrr_player_name.\n* Addons -> Installa MCM se manca ui_mcm / MCM incompleto.\n* Fix CTD menu/inventory: currency + MMX_NET_send_money.\n* Controllo salute piu chiaro, RIPARA STEAM se serve; PLAY apre CTA se FATAL.\n* Musica launcher; menu di gioco con immagini nuove."
+    },
+    {
+      "Version": "0.1.89",
+      "PublishedUtc": "2026-09-29T19:41:24.98995Z",
+      "Notes": "* Fix Settings in-game: keybind mmx_lobby_code non iniettato (hang UIOptions); path Options vanilla.\n* Join soft-timeout half-open (25s) + tip peer stuck (soft-timeout tipo Base Coop); no EndSession se GNS gia connesso.\n* Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n* Addons -> Installa base coop se HEALTH FATAL su xrr_player_name.\n* Addons -> Installa MCM se manca ui_mcm / MCM incompleto.\n* Fix CTD menu/inventory: currency + MMX_NET_send_money.\n* Controllo salute piu chiaro, RIPARA STEAM se serve; PLAY apre CTA se FATAL.\n* Musica launcher; menu di gioco con immagini nuove."
+    },
+    {
+      "Version": "0.1.88",
+      "PublishedUtc": "2026-09-28T22:04:15.1222328Z",
+      "Notes": "* Fix Settings in-game: keybind mmx_lobby_code non iniettato (hang UIOptions); path Options vanilla.\n* Join soft-timeout half-open (25s) + tip peer stuck (soft-timeout tipo Base Coop); no EndSession se GNS gia connesso.\n* Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n* Addons -> Installa base coop se HEALTH FATAL su xrr_player_name.\n* Addons -> Installa MCM se manca ui_mcm / MCM incompleto.\n* Fix CTD menu/inventory: currency + MMX_NET_send_money.\n* Controllo salute piu chiaro, RIPARA STEAM se serve; PLAY apre CTA se FATAL.\n* Musica launcher; menu di gioco con immagini nuove."
+    },
+    {
+      "Version": "0.1.86",
+      "PublishedUtc": "2026-09-28T21:31:30.5710726Z",
+      "Notes": "• Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n• Addons → Installa base coop se HEALTH FATAL su xrr_player_name.\n• Addons → Installa MCM se manca ui_mcm / MCM incompleto.\n• Fix CTD menu amico: pack include MMX_NET_currency + MMX_NET_patch_currency (prima mancavano nello zip).\n• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY apre CTA se FATAL (base coop / MCM / Steam).\n• Dopo AGGIORNA: controllo file overlay (.new / AV).\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove.\n• Fix CTD inventory: nodo MMX_NET_send_money in ui_MMX_NET_inventory.xml."
+    },
+    {
+      "Version": "0.1.85",
+      "PublishedUtc": "2026-09-28T21:09:02.9221911Z",
+      "Notes": "• Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n• Addons → Installa base coop se HEALTH FATAL su xrr_player_name.\n• Addons → Installa MCM se manca ui_mcm / MCM incompleto.\n• Fix CTD menu amico: pack include MMX_NET_currency + MMX_NET_patch_currency (prima mancavano nello zip).\n• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY apre CTA se FATAL (base coop / MCM / Steam).\n• Dopo AGGIORNA: controllo file overlay (.new / AV).\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove.\n• Fix CTD inventory: nodo MMX_NET_send_money in ui_MMX_NET_inventory.xml."
+    },
+    {
+      "Version": "0.1.84",
+      "PublishedUtc": "2026-09-28T20:34:14.199684Z",
+      "Notes": "• Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n• Addons → Installa base coop se HEALTH FATAL su xrr_player_name.\n• Addons → Installa MCM se manca ui_mcm / MCM incompleto.\n• Fix CTD menu amico: pack include MMX_NET_currency + MMX_NET_patch_currency (prima mancavano nello zip).\n• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY apre CTA se FATAL (base coop / MCM / Steam).\n• Dopo AGGIORNA: controllo file overlay (.new / AV).\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove.\n• Fix CTD inventory: nodo MMX_NET_send_money in ui_MMX_NET_inventory.xml."
+    },
+    {
+      "Version": "0.1.83",
+      "PublishedUtc": "2026-09-28T20:25:53.6369369Z",
+      "Notes": "• Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n• Addons → Installa base coop se HEALTH FATAL su xrr_player_name.\n• Addons → Installa MCM se manca ui_mcm / MCM incompleto.\n• Fix CTD menu amico: pack include MMX_NET_currency + MMX_NET_patch_currency (prima mancavano nello zip).\n• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY apre CTA se FATAL (base coop / MCM / Steam).\n• Dopo AGGIORNA: controllo file overlay (.new / AV).\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove.\n• Fix CTD inventory: nodo MMX_NET_send_money in ui_MMX_NET_inventory.xml."
+    },
+    {
+      "Version": "0.1.82",
+      "PublishedUtc": "2026-09-28T20:07:03.8690722Z",
+      "Notes": "• Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n• Addons → Installa base coop se HEALTH FATAL su xrr_player_name.\n• Addons → Installa MCM se manca ui_mcm / MCM incompleto.\n• Fix CTD menu amico: pack include MMX_NET_currency + MMX_NET_patch_currency (prima mancavano nello zip).\n• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY apre CTA se FATAL (base coop / MCM / Steam).\n• Dopo AGGIORNA: controllo file overlay (.new / AV).\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove.\n• Fix CTD inventory: nodo MMX_NET_send_money in ui_MMX_NET_inventory.xml."
+    },
+    {
+      "Version": "0.1.81",
+      "PublishedUtc": "2026-09-28T19:50:00.8338498Z",
+      "Notes": "• Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n• Addons → Installa base coop se HEALTH FATAL su xrr_player_name.\n• Addons → Installa MCM se manca ui_mcm / MCM incompleto.\n• Fix CTD menu amico: pack include MMX_NET_currency + MMX_NET_patch_currency (prima mancavano nello zip).\n• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY apre CTA se FATAL (base coop / MCM / Steam).\n• Dopo AGGIORNA: controllo file overlay (.new / AV).\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove.\n• Fix CTD inventory: nodo MMX_NET_send_money in ui_MMX_NET_inventory.xml."
+    },
+    {
+      "Version": "0.1.80",
+      "PublishedUtc": "2026-09-28T19:32:44.0441114Z",
+      "Notes": "• Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n• Addons → Installa base coop se HEALTH FATAL su xrr_player_name.\n• Addons → Installa MCM se manca ui_mcm / MCM incompleto.\n• Fix CTD menu amico: pack include MMX_NET_currency + MMX_NET_patch_currency (prima mancavano nello zip).\n• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY apre CTA se FATAL (base coop / MCM / Steam).\n• Dopo AGGIORNA: controllo file overlay (.new / AV).\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove.\n• Fix CTD inventory: nodo MMX_NET_send_money in ui_MMX_NET_inventory.xml."
+    },
+    {
+      "Version": "0.1.79",
+      "PublishedUtc": "2026-09-28T19:22:38.6945959Z",
+      "Notes": "• Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n• Addons → Installa base coop se HEALTH FATAL su xrr_player_name.\n• Addons → Installa MCM se manca ui_mcm / MCM incompleto.\n• Fix CTD menu amico: pack include MMX_NET_currency + MMX_NET_patch_currency (prima mancavano nello zip).\n• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY apre CTA se FATAL (base coop / MCM / Steam).\n• Dopo AGGIORNA: controllo file overlay (.new / AV).\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove.\n• Fix CTD inventory: nodo MMX_NET_send_money in ui_MMX_NET_inventory.xml."
+    },
+    {
+      "Version": "0.1.77",
+      "PublishedUtc": "2026-09-28T19:01:05.0002961Z",
+      "Notes": "• Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n• Addons → Installa base coop se HEALTH FATAL su xrr_player_name.\n• Addons → Installa MCM se manca ui_mcm / MCM incompleto.\n• Fix CTD menu amico: pack include MMX_NET_currency + MMX_NET_patch_currency (prima mancavano nello zip).\n• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY apre CTA se FATAL (base coop / MCM / Steam).\n• Dopo AGGIORNA: controllo file overlay (.new / AV).\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove.\n• Fix CTD inventory: nodo MMX_NET_send_money in ui_MMX_NET_inventory.xml."
+    },
+    {
+      "Version": "0.1.76",
+      "PublishedUtc": "2026-09-28T18:58:52.5174234Z",
+      "Notes": "• Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n• Addons → Installa base coop se HEALTH FATAL su xrr_player_name.\n• Addons → Installa MCM se manca ui_mcm / MCM incompleto.\n• Fix CTD menu amico: pack include MMX_NET_currency + MMX_NET_patch_currency (prima mancavano nello zip).\n• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY apre CTA se FATAL (base coop / MCM / Steam).\n• Dopo AGGIORNA: controllo file overlay (.new / AV).\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove.\n• Fix CTD inventory: nodo MMX_NET_send_money in ui_MMX_NET_inventory.xml."
+    },
+    {
+      "Version": "0.1.75",
+      "PublishedUtc": "2026-09-28T17:54:08.1625948Z",
+      "Notes": "• Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n• Addons → Installa base coop se HEALTH FATAL su xrr_player_name.\n• Addons → Installa MCM se manca ui_mcm / MCM incompleto.\n• Fix CTD menu amico: pack include MMX_NET_currency + MMX_NET_patch_currency (prima mancavano nello zip).\n• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY apre CTA se FATAL (base coop / MCM / Steam).\n• Dopo AGGIORNA: controllo file overlay (.new / AV).\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove.\n• Fix CTD inventory: nodo MMX_NET_send_money in ui_MMX_NET_inventory.xml."
+    },
+    {
+      "Version": "0.1.74",
+      "PublishedUtc": "2026-09-28T17:16:57.8376005Z",
+      "Notes": "• Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n• Addons → Installa base coop se HEALTH FATAL su xrr_player_name.\n• Addons → Installa MCM se manca ui_mcm / MCM incompleto.\n• Fix CTD menu amico: pack include MMX_NET_currency + MMX_NET_patch_currency (prima mancavano nello zip).\n• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY apre CTA se FATAL (base coop / MCM / Steam).\n• Dopo AGGIORNA: controllo file overlay (.new / AV).\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove.\n• Fix CTD inventory: nodo MMX_NET_send_money in ui_MMX_NET_inventory.xml."
+    },
+    {
+      "Version": "0.1.73",
+      "PublishedUtc": "2026-09-18T15:11:04.7138374Z",
+      "Notes": "• Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n• Addons → Installa base coop se HEALTH FATAL su xrr_player_name.\n• Addons → Installa MCM se manca ui_mcm / MCM incompleto.\n• Fix CTD menu amico: pack include MMX_NET_currency + MMX_NET_patch_currency (prima mancavano nello zip).\n• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY apre CTA se FATAL (base coop / MCM / Steam).\n• Dopo AGGIORNA: controllo file overlay (.new / AV).\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove.\n• Fix CTD inventory: nodo MMX_NET_send_money in ui_MMX_NET_inventory.xml."
+    },
+    {
+      "Version": "0.1.72",
+      "PublishedUtc": "2026-09-17T18:00:42.0915475Z",
+      "Notes": "• Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n• Addons → Installa base coop se HEALTH FATAL su xrr_player_name.\n• Addons → Installa MCM se manca ui_mcm / MCM incompleto.\n• Fix CTD menu amico: pack include MMX_NET_currency + MMX_NET_patch_currency (prima mancavano nello zip).\n• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY apre CTA se FATAL (base coop / MCM / Steam).\n• Dopo AGGIORNA: controllo file overlay (.new / AV).\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove.\n• Fix CTD inventory: nodo MMX_NET_send_money in ui_MMX_NET_inventory.xml."
+    },
+    {
+      "Version": "0.1.71",
+      "PublishedUtc": "2026-09-17T17:28:02.755872Z",
+      "Notes": "• Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n• Addons → Installa base coop se HEALTH FATAL su xrr_player_name.\n• Addons → Installa MCM se manca ui_mcm / MCM incompleto.\n• Fix CTD menu amico: pack include MMX_NET_currency + MMX_NET_patch_currency (prima mancavano nello zip).\n• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY apre CTA se FATAL (base coop / MCM / Steam).\n• Dopo AGGIORNA: controllo file overlay (.new / AV).\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove.\n• Fix CTD inventory: nodo MMX_NET_send_money in ui_MMX_NET_inventory.xml."
+    },
+    {
+      "Version": "0.1.70",
+      "PublishedUtc": "2026-09-17T17:23:10.4547686Z",
+      "Notes": "• Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n• Addons → Installa base coop se HEALTH FATAL su xrr_player_name.\n• Addons → Installa MCM se manca ui_mcm / MCM incompleto.\n• Fix CTD menu amico: pack include MMX_NET_currency + MMX_NET_patch_currency (prima mancavano nello zip).\n• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY apre CTA se FATAL (base coop / MCM / Steam).\n• Dopo AGGIORNA: controllo file overlay (.new / AV).\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove.\n• Fix CTD inventory: nodo MMX_NET_send_money in ui_MMX_NET_inventory.xml."
+    },
+    {
+      "Version": "0.1.69",
+      "PublishedUtc": "2026-09-17T17:17:23.3528942Z",
+      "Notes": "• Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n• Addons → Installa base coop se HEALTH FATAL su xrr_player_name.\n• Addons → Installa MCM se manca ui_mcm / MCM incompleto.\n• Fix CTD menu amico: pack include MMX_NET_currency + MMX_NET_patch_currency (prima mancavano nello zip).\n• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY apre CTA se FATAL (base coop / MCM / Steam).\n• Dopo AGGIORNA: controllo file overlay (.new / AV).\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove.\n• Fix CTD inventory: nodo MMX_NET_send_money in ui_MMX_NET_inventory.xml."
+    },
+    {
+      "Version": "0.1.68",
+      "PublishedUtc": "2026-09-17T16:55:55.9855131Z",
+      "Notes": "• Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n• Addons → Installa base coop se HEALTH FATAL su xrr_player_name.\n• Addons → Installa MCM se manca ui_mcm / MCM incompleto.\n• Fix CTD menu amico: pack include MMX_NET_currency + MMX_NET_patch_currency (prima mancavano nello zip).\n• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY apre CTA se FATAL (base coop / MCM / Steam).\n• Dopo AGGIORNA: controllo file overlay (.new / AV).\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove.\n• Fix CTD inventory: nodo MMX_NET_send_money in ui_MMX_NET_inventory.xml."
+    },
+    {
+      "Version": "0.1.67",
+      "PublishedUtc": "2026-09-17T15:47:58.7337509Z",
+      "Notes": "• Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n• Addons → Installa base coop se HEALTH FATAL su xrr_player_name.\n• Addons → Installa MCM se manca ui_mcm / MCM incompleto.\n• Fix CTD menu amico: pack include MMX_NET_currency + MMX_NET_patch_currency (prima mancavano nello zip).\n• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY apre CTA se FATAL (base coop / MCM / Steam).\n• Dopo AGGIORNA: controllo file overlay (.new / AV).\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove.\n• Fix CTD inventory: nodo MMX_NET_send_money in ui_MMX_NET_inventory.xml."
+    },
+    {
+      "Version": "0.1.66",
+      "PublishedUtc": "2026-09-17T15:02:30.8855939Z",
+      "Notes": "• Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n• Addons → Installa base coop se HEALTH FATAL su xrr_player_name.\n• Addons → Installa MCM se manca ui_mcm / MCM incompleto.\n• Fix CTD menu amico: pack include MMX_NET_currency + MMX_NET_patch_currency (prima mancavano nello zip).\n• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY apre CTA se FATAL (base coop / MCM / Steam).\n• Dopo AGGIORNA: controllo file overlay (.new / AV).\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove.\n• Fix CTD inventory: nodo MMX_NET_send_money in ui_MMX_NET_inventory.xml."
+    },
+    {
+      "Version": "0.1.65",
+      "PublishedUtc": "2026-09-17T12:52:47.461628Z",
+      "Notes": "• Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n• Addons → Installa base coop se HEALTH FATAL su xrr_player_name.\n• Addons → Installa MCM se manca ui_mcm / MCM incompleto.\n• Fix CTD menu amico: pack include MMX_NET_currency + MMX_NET_patch_currency (prima mancavano nello zip).\n• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY apre CTA se FATAL (base coop / MCM / Steam).\n• Dopo AGGIORNA: controllo file overlay (.new / AV).\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove.\n• Fix CTD inventory: nodo MMX_NET_send_money in ui_MMX_NET_inventory.xml."
+    },
+    {
+      "Version": "0.1.64",
+      "PublishedUtc": "2026-09-17T10:03:55.9732651Z",
+      "Notes": "• Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n• Addons → Installa base coop se HEALTH FATAL su xrr_player_name.\n• Addons → Installa MCM se manca ui_mcm / MCM incompleto.\n• Fix CTD menu amico: pack include MMX_NET_currency + MMX_NET_patch_currency (prima mancavano nello zip).\n• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY apre CTA se FATAL (base coop / MCM / Steam).\n• Dopo AGGIORNA: controllo file overlay (.new / AV).\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove.\n• Fix CTD inventory: nodo MMX_NET_send_money in ui_MMX_NET_inventory.xml."
+    },
+    {
+      "Version": "0.1.63",
+      "PublishedUtc": "2026-09-16T19:59:49.1623998Z",
+      "Notes": "• Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n• Addons → Installa base coop se HEALTH FATAL su xrr_player_name.\n• Addons → Installa MCM se manca ui_mcm / MCM incompleto.\n• Fix CTD menu amico: pack include MMX_NET_currency + MMX_NET_patch_currency (prima mancavano nello zip).\n• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY apre CTA se FATAL (base coop / MCM / Steam).\n• Dopo AGGIORNA: controllo file overlay (.new / AV).\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove.\n• Fix CTD inventory: nodo MMX_NET_send_money in ui_MMX_NET_inventory.xml."
+    },
+    {
+      "Version": "0.1.62",
+      "PublishedUtc": "2026-09-15T21:10:05.3089053Z",
+      "Notes": "• Serve Base Coop (zip MMX-Net-Base-Coop) + MCM: AGGIORNA da solo non basta.\n• Addons → Installa base coop se HEALTH FATAL su xrr_player_name.\n• Addons → Installa MCM se manca ui_mcm / MCM incompleto.\n• Fix CTD menu amico: pack include MMX_NET_currency + MMX_NET_patch_currency (prima mancavano nello zip).\n• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY apre CTA se FATAL (base coop / MCM / Steam).\n• Dopo AGGIORNA: controllo file overlay (.new / AV).\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove.\n• Fix CTD inventory: nodo MMX_NET_send_money in ui_MMX_NET_inventory.xml."
+    },
+    {
+      "Version": "0.1.61",
+      "PublishedUtc": "2026-09-15T18:00:00Z",
+      "Notes": ""
+    },
+    {
+      "Version": "0.1.60",
+      "PublishedUtc": "2026-09-15T16:00:00Z",
+      "Notes": ""
+    },
+    {
+      "Version": "0.1.59",
+      "PublishedUtc": "2026-09-15T14:00:00Z",
+      "Notes": ""
+    },
+    {
+      "Version": "0.1.58",
+      "PublishedUtc": "2026-09-15T12:00:00Z",
+      "Notes": ""
+    },
+    {
+      "Version": "0.1.57",
+      "PublishedUtc": "2026-09-15T10:00:00Z",
+      "Notes": ""
+    },
+    {
+      "Version": "0.1.56",
+      "PublishedUtc": "2026-09-15T08:00:00Z",
+      "Notes": ""
+    },
+    {
+      "Version": "0.1.55",
+      "PublishedUtc": "2026-09-14T20:00:00Z",
+      "Notes": ""
+    },
+    {
+      "Version": "0.1.54",
+      "PublishedUtc": "2026-09-14T11:36:00Z",
+      "Notes": "• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY bloccato se c’è un errore grave.\n• Prima di entrare: controllo semplice e leggibile.\n• Home: copia sessione, avviso se c’è un aggiornamento, chip Host.\n• Dopo AGGIORNA: controllo file overlay.\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove.\n• Fix HEALTH: niente PROBLEM falso su ac_version dopo AGGIORNA/install."
+    },
+    {
+      "Version": "0.1.53",
+      "PublishedUtc": "2026-09-14T08:00:00Z",
+      "Notes": ""
+    },
+    {
+      "Version": "0.1.52",
+      "PublishedUtc": "2026-09-14T04:00:00Z",
+      "Notes": ""
+    },
+    {
+      "Version": "0.1.51",
+      "PublishedUtc": "2026-09-13T20:00:00Z",
+      "Notes": ""
+    },
+    {
+      "Version": "0.1.50",
+      "PublishedUtc": "2026-09-13T12:00:00Z",
+      "Notes": ""
+    },
+    {
+      "Version": "0.1.49",
+      "PublishedUtc": "2026-09-13T06:00:00Z",
+      "Notes": ""
+    },
+    {
+      "Version": "0.1.48",
+      "PublishedUtc": "2026-09-13T00:00:00Z",
+      "Notes": "• Controllo salute più chiaro, con RIPARA STEAM se serve.\n• PLAY bloccato se c’è un errore grave.\n• Prima di entrare: controllo semplice e leggibile.\n• Home: copia sessione, avviso se c’è un aggiornamento, chip Host.\n• Dopo AGGIORNA: controllo file overlay.\n• Musica nel launcher (si spegne al PLAY).\n• Menu di gioco con immagini nuove."
+    },
+    {
+      "Version": "0.1.47",
+      "PublishedUtc": "2026-09-12T07:06:47.2071084Z",
+      "Notes": "• File e overlay allineati per host e amici (MMX-Net).\n• Interfaccia e messaggi con brand MMX-Net.\n• Niente nomi o cartelle vecchie."
+    },
+    {
+      "Version": "0.1.45",
+      "PublishedUtc": "2026-09-12T00:00:00Z",
+      "Notes": "• Base coop condivisa agli amici col nome MMX-Net.\n• Testi Addons e installer allineati a MMX-Net.\n• Pack overlay aggiornato (senza toccare anomaly*.exe)."
+    },
+    {
+      "Version": "0.1.44",
+      "PublishedUtc": "2026-09-11T22:09:30.3996004Z",
+      "Notes": "• Opzioni engine nel pack per il controllo salute.\n• Avvio Steam / Call of Pripyat più affidabile.\n• Publish locale allineato al flusso DEVKIT."
+    }
+  ]
+}
