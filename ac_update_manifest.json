@@ -1,12 +1,12 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1078",
+  "Version": "0.2.1079",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
-  "Notes": "Aggiornamenti inclusi:\n- MMX-Base ora usa lo stesso profilo condiviso da 67 mod già attive sul launcher host.\n- Il profilo conserva lo stesso elenco e ordine per gli utenti che lo selezionano.\n- Le sette mod aggiunte al profilo sono state verificate rispetto alle righe attive dell'Organizer.\n- I file delle mod restano installati: questa modifica aggiorna profilo e allineamento, senza disinstallazioni.",
-  "PackageUrl": "https://github.com/LOGANFOREWORD/MMX-NET/releases/download/launcher-0.2.1078/ac-update.zip",
-  "PackageSha256": "33e86c7b69e8260725e907b0e3fd7130937a32804bf173c783baf77c806b5e83",
-  "PublishedUtc": "2026-10-12T15:27:47.7929599Z",
+  "Notes": "MMX Category ora offre la disinstallazione guidata di tutte le mod gestite. T.H.A.P. Rework usa il download verificato GitHub MMX-Net e mantiene il link ModDB alla fonte originale.",
+  "PackageUrl": "https://raw.githubusercontent.com/LOGANFOREWORD/MMX-NET-feed/main/ac-update.zip?v=0.2.1079",
+  "PackageSha256": "cd897656ae219aa90d1dd16bab9ce14aa349c5b2d417156413119a801ea3f2ed",
+  "PublishedUtc": "2026-10-12T17:01:39.6666158Z",
   "MinLauncherVersion": "0.1.0"
 }
