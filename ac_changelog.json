@@ -2,6 +2,25 @@
   "Schema": 1,
   "Releases": [
     {
+      "Version": "0.2.1081",
+      "AddedIt": [],
+      "AddedEn": [],
+      "RemovedIt": [],
+      "RemovedEn": [],
+      "ReworkIt": [
+        "Per Quality of Life ora si vede il progresso dei file."
+      ],
+      "ReworkEn": [
+        "Quality of Life now shows file progress."
+      ],
+      "FixIt": [
+        "Ripristinati archivi completi e verificati per Gunslinger Controller, New Aim Sway e T.H.A.P. Rework Patch."
+      ],
+      "FixEn": [
+        "Restored complete, verified archives for Gunslinger Controller, New Aim Sway, and the T.H.A.P. Rework Patch."
+      ]
+    },
+    {
       "Version": "0.2.1080",
       "AddedIt": [
         "MMX-QualityOfLife e Weapon Fix Extended sono ora installabili dal launcher."
