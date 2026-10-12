@@ -2,26 +2,26 @@
   "Schema": 1,
   "Releases": [
     {
-      "Version": "0.2.1078",
+      "Version": "0.2.1079",
       "AddedIt": [
-        "MMX-Base è stato allineato a 67 mod condivise."
+        "Aggiunto il comando “Disinstalla tutte le mod” in MMX Category, con conferma e riepilogo."
       ],
       "AddedEn": [
-        "MMX-Base is now aligned to the shared set of 67 mods."
+        "Added “Uninstall all mods” to MMX Category, with a confirmation and summary."
       ],
       "RemovedIt": [],
       "RemovedEn": [],
       "ReworkIt": [
-        "Il profilo MMX-Base mantiene la lista approvata dopo l'aggiornamento."
+        "T.H.A.P. Rework 2.3 usa il pacchetto verificato del feed GitHub MMX-Net. Il pulsante ModDB continua a portare alla fonte originale."
       ],
       "ReworkEn": [
-        "MMX-Base keeps the approved mod list after updating."
+        "T.H.A.P. Rework 2.3 uses the verified MMX-Net GitHub feed package. The ModDB button still opens the original source."
       ],
       "FixIt": [
-        "Le mod già installate restano al loro posto."
+        "Corretto il rilevamento di T.H.A.P. come pacchetto pubblicato: non viene più segnalato come assente se il feed contiene il download verificato."
       ],
       "FixEn": [
-        "Already installed mods stay in place."
+        "Fixed T.H.A.P. published-package detection so a verified feed download is no longer reported as missing."
       ]
     },
     {
