@@ -2,6 +2,29 @@
   "Schema": 1,
   "Releases": [
     {
+      "Version": "0.2.1080",
+      "AddedIt": [
+        "MMX-QualityOfLife e Weapon Fix Extended sono ora installabili dal launcher."
+      ],
+      "AddedEn": [
+        "MMX-QualityOfLife and Weapon Fix Extended can now be installed from the launcher."
+      ],
+      "RemovedIt": [],
+      "RemovedEn": [],
+      "ReworkIt": [
+        "MMX-PDA-Expansive e 3DSS MRAA Stack usano archivi verificati."
+      ],
+      "ReworkEn": [
+        "MMX-PDA-Expansive and 3DSS MRAA Stack now use verified packages."
+      ],
+      "FixIt": [
+        "Corretto il riconoscimento dei pacchetti pubblicati; il pulsante ModDB di T.H.A.P. Rework continua ad aprire la fonte originale."
+      ],
+      "FixEn": [
+        "Published packages are recognized correctly; the T.H.A.P. Rework ModDB button still opens the original source."
+      ]
+    },
+    {
       "Version": "0.2.1079",
       "AddedIt": [
         "Aggiunto il comando “Disinstalla tutte le mod” in MMX Category, con conferma e riepilogo."
