@@ -1,12 +1,12 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1080",
+  "Version": "0.2.1081",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
   "Notes": "Aggiunti MMX-QualityOfLife e Weapon Fix Extended al catalogo. Corretti il download e il riconoscimento di MMX-PDA-Expansive e 3DSS MRAA Stack. T.H.A.P. Rework mantiene il collegamento alla fonte ModDB originale.",
-  "PackageUrl": "https://github.com/LOGANFOREWORD/MMX-NET/releases/download/launcher-0.2.1080/ac-update.zip",
-  "PackageSha256": "3d45eff06b24041dd24f027e3debd12e21ff41eedf8a1951381c411ce28e714f",
-  "PublishedUtc": "2026-10-12T17:29:29.1457704Z",
+  "PackageUrl": "https://github.com/LOGANFOREWORD/MMX-NET/releases/download/launcher-0.2.1081/ac-update.zip",
+  "PackageSha256": "79457d616926d0df0cf4faa385ad5f08aa2d226449fe0f0eceffdac670faaad2",
+  "PublishedUtc": "2026-10-12T18:48:39.8913399Z",
   "MinLauncherVersion": "0.1.0"
 }
