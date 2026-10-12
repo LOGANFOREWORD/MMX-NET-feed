@@ -1,6 +1,11 @@
 {
   "Entries": [
     {
+      "Version": "0.2.1082",
+      "PublishedUtc": "2026-10-12T20:09:46.9835059Z",
+      "Notes": "Aggiornamenti inclusi:\n- MMX-Base ripristina 3DSS MRAA Stack e Gunslinger Controller e torna al conteggio host di 67 mod.\n- La correzione non attiva questi pacchetti negli altri profili.\n- Quality of Life usa il controllo file aggiornato e mostra il progresso durante l’installazione."
+    },
+    {
       "Version": "0.2.1081",
       "PublishedUtc": "2026-10-12T18:48:28.4988011Z",
       "Notes": "Aggiornamenti inclusi:\n- Corretti i pacchetti Gunslinger Controller, New Aim Sway e T.H.A.P. Rework Patch, così il launcher scarica archivi completi e verificati.\n- Per Quality of Life ora viene mostrato il progresso dei file.\n- Migliorata la gestione delle installazioni ferme."
