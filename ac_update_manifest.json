@@ -1,24 +1,12 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1075",
+  "Version": "0.2.1078",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
-  "Notes": "Aggiornamenti inclusi:\n- MMX-Base torna ai 60 pacchetti previsti, rimuovendo dall\u0027elenco i contenuti di altri profili senza cancellare le mod manuali.\n- Dopo un aggiornamento viene ripristinato il profilo salvato dell\u0027utente invece di ricadere su Anomaly.\n- L\u0027Organizer carica l\u0027ordine salvato per il profilo corretto e non mostra conteggi gonfiati dalle righe sintetiche.\n- MMX-Category indica il profilo Vanilla quando \u00E8 attivo il profilo Coop sicuro.\n- All\u0027avvio il launcher controlla i file delle mod gestite e ripristina automaticamente quelli mancanti o alterati dai pacchetti ufficiali disponibili. Le modifiche ai file vengono salvate prima del ripristino; i pacchetti manuali restano esclusi.\n- La scansione dei file viene fatta una volta all\u0027apertura, in background, per mantenere fluida l\u0027interfaccia.",
-  "PackageUrl": "https://raw.githubusercontent.com/LOGANFOREWORD/MMX-NET-feed/main/ac-update.zip",
-  "PackageSha256": "6845e975497b6722d5c11eeddc9c0838448ccfb282ad7d1dfd87414d05408a65",
-  "GameContentSha256": "c4c4f4ac2d372d1ab302a67ce431bc4e2c93a565a32aa4a487b5379b3d010eaf",
-  "PublishedUtc": "2026-10-11T22:24:51.6833910Z",
-  "MinLauncherVersion": "0.1.0",
-  "OverlayKeySha256": {
-    "ac_version.json": "48eca19831ef6df9d14b98390706e5ead96b3bd20338576536132439f9dcc921",
-    "ac_steam_cop_bridge.cmd": "105b7eb2a1aaf1db840a84548e0e3161c02f561540068a50177ce58d71579184",
-    "ac_steam_launch.args": "55bfade880b8e6e24cd369f7d3d04611fdb5e44f60084c1e520690f04413fb54",
-    "gamedata\\scripts\\MMX_NET_core.script": "e3d505e7476e61c7583220e2302138728e68ba12bf33ad429fbfe30e7bb70cd3",
-    "gamedata\\scripts\\MMX_NET_net_client.script": "4f580bcd122c9107ba3acbeff0595161b638b36b45d746680fd70c21694e8094",
-    "gamedata\\scripts\\MMX_NET_net_server.script": "1f56a6887266e52dcff3ce70baf1b333ff081bd7742fa7bee6f849f5969ba7a1",
-    "gamedata\\scripts\\MMX_NET_callbacks.script": "62f6f9fa78ff1eb81a00e567d2696c03d112d90ea073a752e79d892ddfea06f1",
-    "gamedata\\scripts\\MMX_NET_menu.script": "11614292e31e83cf369ee634e1c6eb75d9b5ba99425b4db86ebba85c8395f81a",
-    "gamedata\\scripts\\MMX_NET_join_code.script": "8ee58da4e1e37550feb20754d59cf71ff640d82dfb3d06c71ce737e654e8a7a2"
-  }
+  "Notes": "Aggiornamenti inclusi:\n- MMX-Base ora usa lo stesso profilo condiviso da 67 mod già attive sul launcher host.\n- Il profilo conserva lo stesso elenco e ordine per gli utenti che lo selezionano.\n- Le sette mod aggiunte al profilo sono state verificate rispetto alle righe attive dell'Organizer.\n- I file delle mod restano installati: questa modifica aggiorna profilo e allineamento, senza disinstallazioni.",
+  "PackageUrl": "https://github.com/LOGANFOREWORD/MMX-NET/releases/download/launcher-0.2.1078/ac-update.zip",
+  "PackageSha256": "33e86c7b69e8260725e907b0e3fd7130937a32804bf173c783baf77c806b5e83",
+  "PublishedUtc": "2026-10-12T15:27:47.7929599Z",
+  "MinLauncherVersion": "0.1.0"
 }
