@@ -1,9 +1,9 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1078",
+  "Version": "0.2.1079",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
-  "Notes": "Aggiornamenti inclusi:\n- MMX-Base ora usa lo stesso profilo condiviso da 67 mod già attive sul launcher host.\n- Il profilo conserva lo stesso elenco e ordine per gli utenti che lo selezionano.\n- Le sette mod aggiunte al profilo sono state verificate rispetto alle righe attive dell'Organizer.\n- I file delle mod restano installati: questa modifica aggiorna profilo e allineamento, senza disinstallazioni.",
+  "Notes": "MMX Category ora offre la disinstallazione guidata di tutte le mod gestite. T.H.A.P. Rework usa il download verificato GitHub MMX-Net e mantiene il link ModDB alla fonte originale.",
   "MinLauncherVersion": "0.1.0"
 }
