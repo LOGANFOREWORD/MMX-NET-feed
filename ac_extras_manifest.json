@@ -1,6 +1,6 @@
 {
   "Name": "MMX-Net Extras",
-  "PublishedUtc": "2026-10-12T18:09:32.9717025Z",
+  "PublishedUtc": "2026-10-12T18:48:28.4988011Z",
   "Packages": [
     {
       "Id": "mcm",
@@ -208,7 +208,7 @@
       "Id": "gunslinger-controller",
       "Name": "Gunslinger Controller (TheMrDemonized)",
       "Version": "1",
-      "PackageUrl": "extras/gunslinger-controller.zip",
+      "PackageUrl": "https://github.com/LOGANFOREWORD/MMX-NET/releases/download/launcher-0.2.1081/gunslinger-controller.zip",
       "PackageSha256": "93d74fed570b690f2d7b066cde32d4bbc0bb1791d26e5113ac8f1caf0e42ed25",
       "PackageSizeBytes": 712329,
       "Notes": "Credit: TheMrDemonized — ModDB: https://www.moddb.com/mods/stalker-anomaly/addons/dltx-and-wct-required-gunslinger-controller"
@@ -613,7 +613,7 @@
       "Id": "new-aim-sway-alternative",
       "Name": "New Aim Sway (alternative) (hyomiru)",
       "Version": "1.0.0",
-      "PackageUrl": "extras/new-aim-sway-alternative.zip",
+      "PackageUrl": "https://github.com/LOGANFOREWORD/MMX-NET/releases/download/launcher-0.2.1081/new-aim-sway-alternative.zip",
       "PackageSha256": "24ab75852adea10b66a14cec9ccad7e5b02d0497289dec337decd1e72470aa8f",
       "PackageSizeBytes": 1477,
       "Notes": "Credit: hyomiru — ModDB: https://www.moddb.com/mods/stalker-anomaly/addons/new-aim-sway-alternative"
@@ -739,7 +739,7 @@
       "Id": "mmx-thap-rework-patch",
       "Name": "MMX-T.H.A.P Rework Patch (MMX-Net)",
       "Version": "1",
-      "PackageUrl": "extras/mmx-thap-rework-patch.zip",
+      "PackageUrl": "https://github.com/LOGANFOREWORD/MMX-NET/releases/download/launcher-0.2.1081/mmx-thap-rework-patch.zip",
       "PackageSha256": "56f0ccec9b1666a7de6eb88fb46b584b8fa964904022d499238a9c9a825028c7",
       "PackageSizeBytes": 1196,
       "Notes": "Credit: MMX-Net — MMX-Creator — Patch locale reversibile: mantiene la texture diffusa delle mani T.H.A.P. e disattiva la relativa mappa bump/gloss. Richiede T.H.A.P. Rework 2.3."
