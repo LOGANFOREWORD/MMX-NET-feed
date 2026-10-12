@@ -5,7 +5,7 @@
   "Protocol": "89",
   "Engine": "ST",
   "Notes": "MMX Category ora offre la disinstallazione guidata di tutte le mod gestite. T.H.A.P. Rework usa il download verificato GitHub MMX-Net e mantiene il link ModDB alla fonte originale.",
-  "PackageUrl": "https://raw.githubusercontent.com/LOGANFOREWORD/MMX-NET-feed/main/ac-update.zip?v=0.2.1079",
+  "PackageUrl": "https://github.com/LOGANFOREWORD/MMX-NET/releases/download/launcher-0.2.1079/ac-update.zip",
   "PackageSha256": "cd897656ae219aa90d1dd16bab9ce14aa349c5b2d417156413119a801ea3f2ed",
   "PublishedUtc": "2026-10-12T17:01:39.6666158Z",
   "MinLauncherVersion": "0.1.0"
