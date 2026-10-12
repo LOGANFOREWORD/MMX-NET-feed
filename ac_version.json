@@ -1,9 +1,9 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1081",
+  "Version": "0.2.1082",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
-  "Notes": "Corretti tre pacchetti non validi e mostrato il progresso di Quality of Life.",
+  "Notes": "MMX-Base riallinea 3DSS MRAA Stack e Gunslinger Controller e corregge la disattivazione automatica.",
   "MinLauncherVersion": "0.1.0"
 }
