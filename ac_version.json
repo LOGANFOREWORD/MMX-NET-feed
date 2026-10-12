@@ -1,9 +1,9 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1079",
+  "Version": "0.2.1080",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
-  "Notes": "MMX Category ora offre la disinstallazione guidata di tutte le mod gestite. T.H.A.P. Rework usa il download verificato GitHub MMX-Net e mantiene il link ModDB alla fonte originale.",
+  "Notes": "Aggiunti MMX-QualityOfLife e Weapon Fix Extended al catalogo. Corretti il download e il riconoscimento di MMX-PDA-Expansive e 3DSS MRAA Stack. T.H.A.P. Rework mantiene il collegamento alla fonte ModDB originale.",
   "MinLauncherVersion": "0.1.0"
 }
