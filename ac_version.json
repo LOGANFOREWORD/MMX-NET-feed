@@ -1,9 +1,9 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1080",
+  "Version": "0.2.1081",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
-  "Notes": "Aggiunti MMX-QualityOfLife e Weapon Fix Extended al catalogo. Corretti il download e il riconoscimento di MMX-PDA-Expansive e 3DSS MRAA Stack. T.H.A.P. Rework mantiene il collegamento alla fonte ModDB originale.",
+  "Notes": "Corretti tre pacchetti non validi e mostrato il progresso di Quality of Life.",
   "MinLauncherVersion": "0.1.0"
 }
