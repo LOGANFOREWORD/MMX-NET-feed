@@ -2,6 +2,21 @@
   "Schema": 1,
   "Releases": [
     {
+      "Version": "0.2.1082",
+      "AddedIt": [],
+      "AddedEn": [],
+      "RemovedIt": [],
+      "RemovedEn": [],
+      "ReworkIt": [],
+      "ReworkEn": [],
+      "FixIt": [
+        "Corretto il profilo MMX-Base: 3DSS MRAA Stack e Gunslinger Controller restano attive e il conteggio torna a 67 mod."
+      ],
+      "FixEn": [
+        "Fixed the MMX-Base profile so 3DSS MRAA Stack and Gunslinger Controller stay enabled, restoring the 67-mod count."
+      ]
+    },
+    {
       "Version": "0.2.1081",
       "AddedIt": [],
       "AddedEn": [],
