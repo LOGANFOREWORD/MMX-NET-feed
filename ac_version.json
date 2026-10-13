@@ -1,9 +1,9 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1088",
+  "Version": "0.2.1089",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
-  "Notes": "Corretto il crash durante il disinceppamento senza arma attiva. MMX-Base resta a 67 mod e MMX-PDA-Expansive esclusa.",
+  "Notes": "Fix zaino: la rimozione del backpack non usa piu un oggetto di gioco scaduto durante l animazione di chiusura. MMX-Base 67 mod.",
   "MinLauncherVersion": "0.1.0"
 }

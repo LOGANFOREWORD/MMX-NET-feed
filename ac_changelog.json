@@ -2,6 +2,25 @@
   "Schema": 1,
   "Releases": [
     {
+      "Version": "0.2.1089",
+      "AddedIt": [],
+      "AddedEn": [],
+      "RemovedIt": [],
+      "RemovedEn": [],
+      "ReworkIt": [
+        "Lo zaino usa una velocita di chiusura sicura anche quando l oggetto e appena stato tolto."
+      ],
+      "ReworkEn": [
+        "Backpack close animation now uses a safe speed when the item has just been removed."
+      ],
+      "FixIt": [
+        "Rimosso il riferimento obsoleto allo zaino tolto dallo slot; il profilo MMX-Base rimane a 67 mod."
+      ],
+      "FixEn": [
+        "Cleared stale references to a backpack removed from its slot; MMX-Base remains at 67 mods."
+      ]
+    },
+    {
       "Version": "0.2.1088",
       "AddedIt": [],
       "AddedEn": [],
