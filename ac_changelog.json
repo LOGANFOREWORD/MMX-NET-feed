@@ -2,6 +2,29 @@
   "Schema": 1,
   "Releases": [
     {
+      "Version": "0.2.1090",
+      "AddedIt": [],
+      "AddedEn": [],
+      "RemovedIt": [
+        "MMX-More Animations For Anomaly 1.5.3 for Coop Sync rimossa da MMX-Base."
+      ],
+      "RemovedEn": [
+        "MMX-More Animations For Anomaly 1.5.3 for Coop Sync removed from MMX-Base."
+      ],
+      "ReworkIt": [
+        "MMX-Base riallineato: 66 mod attive e 66 voci nel pacchetto del profilo."
+      ],
+      "ReworkEn": [
+        "MMX-Base aligned: 66 active mods and 66 entries in the profile pack."
+      ],
+      "FixIt": [
+        "Incluse correzioni Lua statiche per callback, movimento prono e aggiornamento FOV. Questa release è destinata a una prova con un utente: animazione zaino, consumabili, skinning e crash nel passaggio di zona non sono ancora confermati risolti."
+      ],
+      "FixEn": [
+        "Includes static Lua fixes for callbacks, prone movement and FOV updates. This release is for a user test: backpack animation, consumables, skinning and the area-transition crash are not confirmed fixed."
+      ]
+    },
+    {
       "Version": "0.2.1089",
       "AddedIt": [],
       "AddedEn": [],
