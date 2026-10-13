@@ -1,9 +1,9 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1087",
+  "Version": "0.2.1088",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
-  "Notes": "MMX-Base allineato a 67 mod: include MMX-More Animations coop-sync, 3DSS MRAA Stack e Immersive Skinning; MMX-PDA-Expansive esclusa anche dai profili gi\u00E0 migrati.",
+  "Notes": "Corretto il crash durante il disinceppamento senza arma attiva. MMX-Base resta a 67 mod e MMX-PDA-Expansive esclusa.",
   "MinLauncherVersion": "0.1.0"
 }

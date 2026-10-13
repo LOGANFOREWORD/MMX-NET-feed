@@ -2,6 +2,25 @@
   "Schema": 1,
   "Releases": [
     {
+      "Version": "0.2.1088",
+      "AddedIt": [],
+      "AddedEn": [],
+      "RemovedIt": [],
+      "RemovedEn": [],
+      "ReworkIt": [
+        "MMX-QualityOfLife: corretta l animazione di disinceppamento che poteva causare un crash se l arma veniva cambiata o rimossa durante il movimento."
+      ],
+      "ReworkEn": [
+        "MMX-QualityOfLife: fixed the unjam animation crash when the weapon was changed or removed during the motion."
+      ],
+      "FixIt": [
+        "MMX-Base mantiene 67 mod; Footsteps Sounds e Immersive Skinning restano inclusi; MMX-PDA-Expansive resta esclusa."
+      ],
+      "FixEn": [
+        "MMX-Base stays at 67 mods; Footsteps Sounds and Immersive Skinning remain included; MMX-PDA-Expansive remains excluded."
+      ]
+    },
+    {
       "Version": "0.2.1087",
       "AddedIt": [
         "MMX-More Animations For Anomaly 1.5.3 for Coop Sync inclusa nel profilo MMX-Base."
