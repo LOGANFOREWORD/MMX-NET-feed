@@ -1,9 +1,9 @@
 {
-  "MinLauncherVersion": "0.1.0",
-  "Protocol": "89",
+  "Name": "MMX-Net",
+  "Version": "0.2.1091",
   "Channel": "dev",
-  "Version": "0.2.1090",
+  "Protocol": "89",
   "Engine": "ST",
-  "Notes": "Release di prova: profilo MMX-Base riallineato a 66 mod; rimosso MMX-More Animations For Anomaly 1.5.3 for Coop Sync dal profilo; incluse correzioni Lua statiche per callback, movimenti e FOV. Test di gioco ancora richiesto.",
-  "Name": "MMX-Net"
+  "Notes": "Verifica overlay corretta: i profili personali ac_mo_lite.json sono conservati e non vengono confrontati con il profilo base del pacchetto. MMX-Base incluso nel pacchetto: 66 mod. Release di prova.",
+  "MinLauncherVersion": "0.1.0"
 }

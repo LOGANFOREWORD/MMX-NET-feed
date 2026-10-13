@@ -2,6 +2,25 @@
   "Schema": 1,
   "Releases": [
     {
+      "Version": "0.2.1091",
+      "AddedIt": [],
+      "AddedEn": [],
+      "RemovedIt": [],
+      "RemovedEn": [],
+      "ReworkIt": [
+        "Il controllo degli aggiornamenti non confronta più il profilo personale salvato sul PC con il profilo base incluso nel pacchetto."
+      ],
+      "ReworkEn": [
+        "The update integrity check no longer compares the profile saved on the user PC with the base profile shipped in the package."
+      ],
+      "FixIt": [
+        "Risolto l'avviso di integrità su ac_mo_lite.json dopo un aggiornamento: il file personale viene preservato e non è più trattato come overlay fisso. MMX-Base nel pacchetto resta a 66 mod."
+      ],
+      "FixEn": [
+        "Fixed the ac_mo_lite.json integrity warning after updates: the personal file is preserved and no longer treated as a fixed overlay. MMX-Base in the package remains at 66 mods."
+      ]
+    },
+    {
       "Version": "0.2.1090",
       "AddedIt": [],
       "AddedEn": [],
