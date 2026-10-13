@@ -1,9 +1,9 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1086",
+  "Version": "0.2.1087",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
-  "Notes": "MMX-Base mantiene 67 voci condivise: 3DSS MRAA Stack e Immersive Skinning inclusi; MMX-PDA-Expansive rimossa anche dai profili gi\u00E0 migrati. La X dei popup chiude sempre.",
+  "Notes": "MMX-Base allineato a 67 mod: include MMX-More Animations coop-sync, 3DSS MRAA Stack e Immersive Skinning; MMX-PDA-Expansive esclusa anche dai profili gi\u00E0 migrati.",
   "MinLauncherVersion": "0.1.0"
 }

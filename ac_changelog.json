@@ -2,6 +2,30 @@
   "Schema": 1,
   "Releases": [
     {
+      "Version": "0.2.1087",
+      "AddedIt": [
+        "MMX-More Animations For Anomaly 1.5.3 for Coop Sync inclusa nel profilo MMX-Base."
+      ],
+      "AddedEn": [
+        "MMX-More Animations For Anomaly 1.5.3 for Coop Sync added to MMX-Base."
+      ],
+      "RemovedIt": [
+        "Rimosse MMX-PDA-Expansive e le voci salvate obsolete dagli elenchi MMX-Base."
+      ],
+      "RemovedEn": [
+        "Removed MMX-PDA-Expansive and stale saved entries from MMX-Base lists."
+      ],
+      "ReworkIt": [],
+      "ReworkEn": [],
+      "FixIt": [
+        "MMX-Base sincronizza le stesse 67 mod, inclusi 3DSS MRAA Stack e Immersive Skinning."
+      ],
+      "FixEn": [
+        "MMX-Base now synchronizes the same 67 mods, including 3DSS MRAA Stack and Immersive Skinning.",
+        "The dialog X always closes the window, even when OK is disabled."
+      ]
+    },
+    {
       "Version": "0.2.1086",
       "AddedIt": [],
       "AddedEn": [],
