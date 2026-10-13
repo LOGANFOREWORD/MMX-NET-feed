@@ -2,6 +2,27 @@
   "Schema": 1,
   "Releases": [
     {
+      "Version": "0.2.1086",
+      "AddedIt": [],
+      "AddedEn": [],
+      "RemovedIt": [
+        "MMX-PDA-Expansive viene rimossa dagli elenchi salvati di MMX-Base anche per profili già aggiornati."
+      ],
+      "RemovedEn": [
+        "MMX-PDA-Expansive is removed from saved MMX-Base lists even for profiles already updated."
+      ],
+      "ReworkIt": [],
+      "ReworkEn": [],
+      "FixIt": [
+        "La X dei popup chiude sempre la finestra, anche se OK è disabilitato.",
+        "MMX-PDA-Expansive viene tolta in modo permanente dal profilo MMX-Base e disattivata. Immersive Skinning e 3DSS MRAA Stack restano inclusi."
+      ],
+      "FixEn": [
+        "The dialog X always closes the window, even when OK is disabled.",
+        "MMX-PDA-Expansive is permanently removed from MMX-Base and disabled. Immersive Skinning and 3DSS MRAA Stack remain included."
+      ]
+    },
+    {
       "Version": "0.2.1085",
       "AddedIt": [],
       "AddedEn": [],

@@ -1,9 +1,9 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1085",
+  "Version": "0.2.1086",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
-  "Notes": "MMX-Base contiene 67 voci condivise: 3DSS MRAA Stack e Immersive Skinning restano inclusi; MMX-PDA-Expansive \u00E8 esclusa. La X dei popup ora chiude sempre.",
+  "Notes": "MMX-Base mantiene 67 voci condivise: 3DSS MRAA Stack e Immersive Skinning inclusi; MMX-PDA-Expansive rimossa anche dai profili gi\u00E0 migrati. La X dei popup chiude sempre.",
   "MinLauncherVersion": "0.1.0"
 }
