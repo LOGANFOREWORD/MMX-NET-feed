@@ -1,4 +1,4 @@
-﻿# MMX-NET-feed: allowlist (deny tutto il resto)
+# MMX-NET-feed: allowlist (deny tutto il resto)
 *
 !ac_version.json
 !ac_update_manifest.json

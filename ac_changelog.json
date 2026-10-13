@@ -2,6 +2,29 @@
   "Schema": 1,
   "Releases": [
     {
+      "Version": "0.2.1085",
+      "AddedIt": [],
+      "AddedEn": [],
+      "RemovedIt": [
+        "MMX-PDA-Expansive viene esclusa dal profilo MMX-Base; resta disponibile come mod opzionale."
+      ],
+      "RemovedEn": [
+        "MMX-PDA-Expansive is excluded from MMX-Base and remains available as an optional mod."
+      ],
+      "ReworkIt": [],
+      "ReworkEn": [],
+      "FixIt": [
+        "Corretto il profilo salvato: il launcher rimuove MMX-PDA-Expansive dalle liste e la disattiva quando MMX-Base è selezionato. Anomaly PDA Extended resta attiva.",
+        "Risolto il possibile conflitto delle animazioni delle braccia causato dal pacchetto PDA.",
+        "La X dei popup chiude sempre la finestra, anche durante le conferme."
+      ],
+      "FixEn": [
+        "Fixed saved profile data: the launcher removes MMX-PDA-Expansive from MMX-Base and disables it while that profile is selected. Anomaly PDA Extended remains enabled.",
+        "Resolved the arm-animation conflict caused by the PDA package.",
+        "The dialog X always closes the window, including confirmation dialogs."
+      ]
+    },
+    {
       "Version": "0.2.1084",
       "AddedIt": [],
       "AddedEn": [],

@@ -1,9 +1,9 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1084",
+  "Version": "0.2.1085",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
-  "Notes": "MMX-Base allineato al profilo approvato; ingresso co-op pi\u00F9 stabile nello Start Kit.",
+  "Notes": "MMX-Base contiene 67 voci condivise: 3DSS MRAA Stack e Immersive Skinning restano inclusi; MMX-PDA-Expansive \u00E8 esclusa. La X dei popup ora chiude sempre.",
   "MinLauncherVersion": "0.1.0"
 }
