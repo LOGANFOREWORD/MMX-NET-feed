@@ -1,9 +1,9 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1091",
+  "Version": "0.2.1092",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
-  "Notes": "Verifica overlay corretta: i profili personali ac_mo_lite.json sono conservati e non vengono confrontati con il profilo base del pacchetto. MMX-Base incluso nel pacchetto: 66 mod. Release di prova.",
+  "Notes": "Fix animazioni backpack e consumabili, transizioni HUD e nil crash su clear_jam. MMX-Base: 66 mod.",
   "MinLauncherVersion": "0.1.0"
 }

@@ -1,20 +1,24 @@
 {
   "Name": "MMX-Net",
-  "Version": "0.2.1091",
+  "Version": "0.2.1092",
   "Channel": "dev",
   "Protocol": "89",
   "Engine": "ST",
-  "Notes": "Verifica overlay corretta: i profili personali ac_mo_lite.json sono conservati e non vengono confrontati con il profilo base del pacchetto. MMX-Base incluso nel pacchetto: 66 mod. Release di prova.",
+  "Notes": "Fix animazioni backpack e consumabili, transizioni HUD e nil crash su clear_jam. MMX-Base: 66 mod.",
   "PackageUrl": "https://raw.githubusercontent.com/LOGANFOREWORD/MMX-NET-feed/main/ac-update.zip",
-  "PackageSha256": "807278b3f609d07331de20951e80d34640518f3290808b453d1eca8c46a2b958",
-  "GameContentSha256": "a89e037913f19cb645f56c57d48e486f1862bc5db971ce146650dfb5040beda4",
-  "PublishedUtc": "2026-10-13T21:39:25.9780037Z",
+  "PackageSha256": "d5049a5103396dff7f7f3eaf4dd1854f9e8601060dfd657fe83ca4f7ce9e2f55",
+  "GameContentSha256": "d99d2b3905392e73e4f281a51a85cccf6db3016e83cd0540d6f156a5da6c6409",
+  "PublishedUtc": "2026-10-14T09:50:30.7379019Z",
   "MinLauncherVersion": "0.1.0",
   "OverlayKeySha256": {
-    "ac_version.json": "675e8a3b4cfd2ac66374c37f9451a8c994689af2d2744f4aa9beb11e6cc4cb9a",
-    "gamedata\\scripts\\MMX_CORE_weapon_hud_fov_sync.script": "69e906ec963827f7d57f0ae626ac2b4ffc98083c8537deb181caaeb6a82093d5",
+    "ac_version.json": "78ced64fd3b94b95936d0c766df0e2aeba3d11e9b45cc533b1d08b1fa2bb745a",
+    "ac_steam_cop_bridge.cmd": "105b7eb2a1aaf1db840a84548e0e3161c02f561540068a50177ce58d71579184",
+    "ac_steam_launch.args": "55bfade880b8e6e24cd369f7d3d04611fdb5e44f60084c1e520690f04413fb54",
+    "gamedata\\scripts\\MMX_NET_core.script": "e3d505e7476e61c7583220e2302138728e68ba12bf33ad429fbfe30e7bb70cd3",
+    "gamedata\\scripts\\MMX_NET_net_client.script": "4f580bcd122c9107ba3acbeff0595161b638b36b45d746680fd70c21694e8094",
+    "gamedata\\scripts\\MMX_NET_net_server.script": "1f56a6887266e52dcff3ce70baf1b333ff081bd7742fa7bee6f849f5969ba7a1",
     "gamedata\\scripts\\MMX_NET_callbacks.script": "d193f6ea3b2511f4c1a3f76368b5fc0052322a65eccc85f3b17d383a4c994fd7",
-    "gamedata\\scripts\\MMX_NET_patch_improved_gestures.script": "3ab29d8057bbaa8614acd1ff32ee942784640baab4305768522676d8f9befaf4",
-    "gamedata\\scripts\\move_effects.script": "16cd0e0d9692944b79360545a0a360facbd94b91d5abe871c96c8d733b585247"
+    "gamedata\\scripts\\MMX_NET_menu.script": "11614292e31e83cf369ee634e1c6eb75d9b5ba99425b4db86ebba85c8395f81a",
+    "gamedata\\scripts\\MMX_NET_join_code.script": "8ee58da4e1e37550feb20754d59cf71ff640d82dfb3d06c71ce737e654e8a7a2"
   }
 }
